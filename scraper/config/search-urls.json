@@ -1,0 +1,22 @@
+{
+  "description": "URLs de recherche déjà filtrées (ex: développeur python + remote + région). Une requête par source, première page uniquement.",
+  "sources": [
+    {
+      "id": "indeed",
+      "name": "Indeed France",
+      "url": "https://www.indeed.fr/jobs?q=d%C3%A9veloppeur+python&l=France&remotejob=032b3046-5012-8d48-70e3-ac6c2c7e3f5e"
+    },
+    {
+      "id": "wtj",
+      "name": "Welcome to the Jungle",
+      "url": "https://www.welcometothejungle.com/fr/jobs?refinementList%5Boffices.country%5D%5B%5D=France&query=python"
+    },
+    {
+      "id": "hellowork",
+      "name": "HelloWork",
+      "url": "https://www.hellowork.com/fr-fr/emploi/recherche.html?k=python&k_autocomplete=python"
+    }
+  ],
+  "delayMinSeconds": 2,
+  "delayMaxSeconds": 5
+}

@@ -1,0 +1,13 @@
+{
+  "name": "jobsniper-scraper",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scrape": "node run.js",
+    "scrape:once": "node run.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "playwright": "^1.49.0"
+  }
+}
