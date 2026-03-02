@@ -4,7 +4,10 @@
   "type": "module",
   "scripts": {
     "scrape": "node run.js",
-    "scrape:once": "node run.js"
+    "debug": "node debug.js",
+    "debug:indeed": "node debug.js indeed",
+    "debug:wtj": "node debug.js wtj",
+    "debug:hellowork": "node debug.js hellowork"
   },
   "dependencies": {
     "cheerio": "^1.0.0",

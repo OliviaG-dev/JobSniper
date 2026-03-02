@@ -4,17 +4,17 @@
     {
       "id": "indeed",
       "name": "Indeed France",
-      "url": "https://www.indeed.fr/jobs?q=d%C3%A9veloppeur+python&l=France&remotejob=032b3046-5012-8d48-70e3-ac6c2c7e3f5e"
+      "url": "https://fr.indeed.com/jobs?q=d%C3%A9veloppeur+front+end&l=france&sc=0kf%3Aattr%285QWDV%29%3B&from=searchOnDesktopSerp&vjk=196c52316a9c7a27"
     },
     {
       "id": "wtj",
       "name": "Welcome to the Jungle",
-      "url": "https://www.welcometothejungle.com/fr/jobs?refinementList%5Boffices.country%5D%5B%5D=France&query=python"
+      "url": "https://www.welcometothejungle.com/fr/jobs?query=developpeur%20front%20end&refinementList%5Bcontract_type%5D%5B%5D=full_time&page=1&aroundQuery=worldwide&searchTitle=true"
     },
     {
       "id": "hellowork",
       "name": "HelloWork",
-      "url": "https://www.hellowork.com/fr-fr/emploi/recherche.html?k=python&k_autocomplete=python"
+      "url": "https://www.hellowork.com/fr-fr/emploi/recherche.html?k=D%C3%A9veloppeur+frontend&k_autocomplete=http%3A%2F%2Fwww.rj.com%2FCommun%2FPost%2FDeveloppeur_frontend&l=France&l_autocomplete=http%3A%2F%2Fwww.rj.com%2Fcommun%2Flocalite%2Fpays%2FFR&st=relevance&c=CDI&msa=0&ray=20&d=all"
     }
   ],
   "delayMinSeconds": 2,
