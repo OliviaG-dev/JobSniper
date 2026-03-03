@@ -1,0 +1,995 @@
+{
+  "updatedAt": "2026-03-03T19:33:39.142Z",
+  "jobs": [
+    {
+      "id": "1772476021932-wiejbtt",
+      "title": "Développeur Front-End WordPress (H/F)",
+      "company": "Studio Ikadia",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0A-rh-QExCQlGufSpteE3pn_YdmD0tgbSPRGB6_in74M8F3uhpbIZ1qn01jjnVIXwe4S5Fsx7uZiyW6eHEsm0VCTyKni2NE1-drDIaBrwO-GbHDFFH40b4l9YsuBvJ-rf1czwvGY2fET2bYTOvmWnRc14goEmLRVAoPXDP2Zix0pixleuHk6jqhu-bJEmP1FplKokWjBPfU2iMgQaApY9Ot8faTP8-Ds4tSGx5DP2OWd440PNU-M23Y36P_uYnHgP202yNpNDtQ3mS56Cuj4D05PbsuR9zLuHBgcAq4WCrKb3Ly6OkRgcBzrc107zlloIVJz9Eidwn2BthdWcgyvCrw45JNEKqWUtfnN9dYC6FUxTfXUQnSvs-0a3PPg7OE-dd9iGvwWZPWGu_By6pSuQVunB8LtayBRSeFxlWaHbGxmLl5uJTTEFE7YLoAllh6BqOQRu8PY4jiyBTET5Mdv43G98PkGqJxl3tb7mKcmZ2Cz67JXMfBPr7Sc4DVuASzYTGmrbbPBxc8wAoOAdwQoNFnC5ohajqhend3Bfe9taD7Y2pHGHVoa73AlxEGGD3Mstk1QTZlTjZaaXMhXp9z_PT4E-ufseMAvfCM9IOrHIEDNKS1iJYkKuIThaCEU3Stp3vhzeS-6svllYKGRbHm253ZUEUctFSgVgM2CzirxE-Dn6kwM_D-Z6Wnq9Akrz_VGN1nM2dau_biIa7EgrxeEwo3uniOeyHCnfznoHovvtUjir0ebdHVBpjr8QWu9Auibwk=&xkcb=SoD56_M3mXxi1OzZt50LbzkdCdPP&camk=UoKtGZLa3XI8M-50SWtgOg==&p=0&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-02T18:27:01.932Z"
+    },
+    {
+      "id": "1772476021933-w1n4st7",
+      "title": "Développeur Full Stack - MedTech - Java/Angular",
+      "company": "MédiFirst",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AlYmTzYQPdPu8m3D25dQQjgHEf5O7_4BNqtUoqNpVa3eOZ929P0UtEEKhXsyVTucSPs4PCMtJNJ8sx2sySTzirvqzQ7Cy4ywKSuK0dcyZF8U-7JFwV7jM1NjwjZRKeUfAAHa3A20k8qucjvTpNqCzN4DDZPedHreH0G-m8I7HIew1Of0QJ_yld60b4XHu4eMOBO0LJHMC2v5m_4XfivTLPYoIkM_qzbye4ZQ9oPsRtYRifz9eXdxQjTwRffR_-VKrn7uJirC9rTD-7eIYA3Rf6-p9E6HGWv9jIwx5bAVnMSAOdUh7l6UgPbLmJv24WFiJZYQFfJgzfSO2BX0dX0ENy_x_evU9jmUdT3FUDl7jwwnm9J6NuWPMdJQDdjcsSoYjGk6JsblAwswXgjDCoYlTLAbffaF8dEkaEM6yHJcBKT0XRjblMmplu3WMy48oo1sgFw2xqqSgfIUr-CbHtAYaVf0jJzU2NODZ2dOQ6pq2T4kzszr8SFV3PT5j1R_l3XB3b0dJ_dgrLtVhmeroKOZutbxd9y97loNugdcpENQw55WZuh8FVHek4s3RAKfxOKEncYreeFQQxI33oy77c-ehO1YlupOhKeWeEKLSCz-9iQgl06ED8V9YhCC-MpIWyq0CIBx2PLk86qGctLe2hz6OC-QAExo2ANcprgqAomZFW0Ylea7YTe7z_UZpZTYkjFsomOna47lzyh34CflFyvP6_BJ1LWyW_LE82qX8_9I-itykPljG2GsJWWjJwqZn-nn5CE-W6tA2dvw==&xkcb=SoBN6_M3mXxi1OzZt50KbzkdCdPP&camk=UoKtGZLa3XJ8vyWliXUQvA==&p=1&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-02T18:27:01.933Z"
+    },
+    {
+      "id": "1772476021933-zm1gzo4",
+      "title": "Développeur Full Stack .NET/React (ISH) - F/H/NB",
+      "company": "Cegid",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DfmYQLYMrU8gNBWZWaZelSo2q88YgE4v4gC5ioDP8-xJa38MgnOzON298UalGQpgot4zyIcuqR8vIYHy-ng3QGG8r5lSPPkNDlqM-QlyN2rvsKL-EeUbVWQuggkYd1QeaYhb9mIwSbqHlvIdHFfep8PUQbpZy8lGZLyMnPZ9Yz99OihcBim1M-QBCtDTkXFvxSGMQjulfu8mfBB4BSmSAyALeuRrFiIhNCEmAGgn1I9VzM4-RS9SWhYz4Y5GygD-3FMHqFU21fe_18S3DFFt2J3s1pOpR7bFEAmMNSHFSyvlyNaKsdaU39KnsHqOr57Tv-aqW6AKrE_z-XIiK-Xk_qQ6hjymz6RRJJERMnbgWwJzQkIAvogkuFkjXY9sKmSQZfYC-VUy6gzyTKB2QicM8JarDtNa3PXRu2qwraH8iMFCaCN6sbXSU1NPUGgZ6EoW_rYPua9paBRuyq8vfqF-ufEQNZKxgveE2Rt5O5h7yp4Yhvyd9hUiAiwhzxEoLQ4rygdPm4o79KaTSfIAhoQvHCbzTB2CT3ygGun1sWmJ2nv8W69siGhpAstVesu-sKhxJ2DNzBKEx_1WOE7L1DXmeJMUIbt0N_HGGJYx71Svu03dHIn0np3owoIh90f6buPxVyWwIZXRljqLI002BbbMA-21cj3YaBHWiwZyL-3bI5UjdB5hohrqExt3iKj9V1i8Dp_3DGBOAc4pfOYRr1CSraTHl2ldPGpgO9UAXH827GtlFBobRoj87qXTlGcDbn2zWcE3Hyuf3civ60thf6LToCGBmKRK-MsmMlbaGjSBRRlg==&xkcb=SoDQ6_M3mXxi1OzZt50JbzkdCdPP&camk=UoKtGZLa3XL9MITaIaCYPA==&p=2&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-02T18:27:01.933Z"
+    },
+    {
+      "id": "1772476021933-83b0uaa",
+      "title": "Développeur Full Stack .NET/React (ISH) - F/H/NB",
+      "company": "Cegid",
+      "link": "https://fr.indeed.com/viewjob?jk=f1e2d3c4b5a67890",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-02T18:27:01.933Z"
+    },
+    {
+      "id": "1772476021933-schfvqb",
+      "title": "Développeur Full Stack (H/F)",
+      "company": "AgileSoft.NC",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AsrcXh1n33AShJydKXOi264FWyEWyBB3bmwuTBPn6v1Wjt167eaqSQywc1LfhY4VCLPkGDcNWuTmLUMN8u0TpIivgGidZp7UaEgcN5-rlkizNPhog7-cvToNg4-rlY989p46WhNpaFpWymnlPsUFvAWVsddNMIGd0TEhU-2Ay0sfH4mRZJ3bqvxg1f01vuy_Da2322W91QjzfZIurxdr8y2igEr38N9qMmuBSR6qObsK0Bq-5fwhe-miSKYSqi256wMUXmSUBPEfqo3_IRYpmkJ2E-Sf2j7nBvaJ9bjoz7-BEHX1_xTCqpYQJFqZ97OUKlquHR2Ew4Yg9Rh8M8zZ_kA0hp5nRCdggBjR2R3s2dV_-BGsOpB2qUqjsrmUzaE-FZE8SyRjbyKLrqlcqTLgVf2j2FuTkkchYg0KpZpwXIq81SLWSOQqJe5BWMVfBUCWG9kbz6J7LO6YoWMKbfPPbRE-rhUuQ0C4uF9xHAYFOT8sj7ESO54gE0mjFiyGIG-J3MgvPmEi3WcROGAvW1LUmL1uYeVbZeQmCjOFP5-Zlvpww6KSCWGt-YFQ4qmD3WvR3Kop-ruiKL5kz_JkfYwiBKgWndSQx4x-WPJMQSLTmDcQTe4gSECSBV7xSSwbPxoOl9dwQtkG9hLDPXHUIup0w4ziOzchR2gztAU3_Lx7nqznP_dKi2pGHcD3h52mjzrhU=&xkcb=SoBk6_M3mXxi1OzZt50IbzkdCdPP&camk=ethIe0s0hecWHWABnq8LdQ==&p=3&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-02T18:27:01.933Z"
+    },
+    {
+      "id": "1772476021933-cuarw17",
+      "title": "Developpeur H/F",
+      "company": "GFC PROVAP",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0D7broJqrxS-DJuMRqS7RlG7mkUNGAkbIjRh5Ef9uJBMiePTh34NDb5Edw4RYCalFLyDvngn3w1fxxrnNnZaTd3OtOz7TR6Wtml6dFr5_HoU9qpoguuEREAoll53E35f1TYVWHWGNeHS3EIyuoFmikB7UITVnmt4jT-UIC711P380OLZPVC2nxK20-KMXaxqxh_j5A0fN8iNOsk-4eS6kuo8jRNS2qfKFwLfQprkWk4Vl80YjxZhPMoAXBhvaG02krw7P2wV7OMjoBmqecN8183s0C82KlKioCJwDnTmb83cpTj5B7Ektmo72zT2a-cvO84ublxw6RN0IbvYfSXb0t7jCAXUtx7xOsvDWZ8DS6GgVq6hYI8YOF_2Kdvh2m6aP5RD4MA639WoLL0NGpnQ9RnTbqu1ik3IikS9ZXPnQAoXH4fS0RNTlUG_4Fu6YGLwk9Jxs6G3wIhMzlgU6OVJqV5QL7rSyHCdUHMCGGnFHCb-lmq_pvxo565xNo-wDYp08hHks1CO0FDRrVrCvJDilHR_UaKgSLPkBakvXgnQ4fpxZbpeDgyR4d1K83SsWnL94NtZ2yUhjmp69GxQhpUhedm3C5aSjurvFC1mSet_sTC878k8bHwim8CwjK8_2q9wPaU8-1Q9XdrU9CkpVesb50IRjo3mX45lDgiW0zoDFdPjl1iODu137mf&xkcb=SoDq6_M3mXxi1OzZt50PbzkdCdPP&camk=H-lBaXMUocL9w0XjqyUM-g==&p=4&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-02T18:27:01.933Z"
+    },
+    {
+      "id": "1772476021933-lyuh0io",
+      "title": "Développeur Web PHP full stack",
+      "company": "SYDEV",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CYKC0BGEI-i5lfJ4Y6HJvJJdkYSp1H8eG60InuHD-gwwfu4Yr3LKMFY2De1LToZ5NNKow9oIgZuj16332-tqkVWXV8o0JKvhWng_SZdT7rIbnYCfYvbO9kXidWse7_aSoajmdtwDGp_7oZ8rvi8l_YyDlWvdBBqihN6Gd9p1I8dl9LOaVmfR-yDPo-fDgvALPOc5iTmKSAjMpt0zl_S8dapwYkrYkHOP0IZz757Q6H13by1m_xAActEz95Mh6BDTJr4zrtWIWMihuemu4K_bmfgq24ODOhhG5EKEPuY9LBEUikPm8r4PW3QdqG6cTD0Dp3xBYKFwUqmntlXL_WRydrC4J6SPp6pxWmvED8Zy8TWZOlaes-CrvDEOvJuC5zDjMPuMfX1KqbkacPMysvV8guhRhakICprLH7_9TrzbrucwyDpRSVR1UYHHTdmBYKqoZmSdr7JxrB645LXJtgyb8qvM3Wx-mxVgC5jR1av5xbnRFzB59CnPrYUzay-azvDrXY9z6yBljfSzak6AoBuspWr5xSi1hdUbVn4TPNVDOhF7KtleWiYSzkDtBbF63gARUCkZI45xiUeoQrLLKq81SIQgpqXZUg9Va_I-H-vNKsX2VDNL4XxNnLutqnTOAEKT-QKhJZnl1u2tzb4jhCM1v7U8E0otxauyphZ3F5H0Lb51sFQ0ciF_vI-tPAHx4dtKhqQBosTorBhXbO2Pn8ZUVxNRX6awV8Sz8JeFf5kEikkg==&xkcb=SoBe6_M3mXxi1OzZt50ObzkdCdPP&camk=UoKtGZLa3XKlqHgnPljpXw==&p=5&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-02T18:27:01.933Z"
+    },
+    {
+      "id": "1772476021933-w1eplk3",
+      "title": "Développeur Front-End Angular H/F",
+      "company": "Hitech Software",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0B-5o-8t6Bp_VSTWK9AMnz62DEx-IunthBhXOwYHWxMCY-7-rZ9Zz-iKb-YL-ipiv1iSuuLJPtyPE0y1It5p9ShrubuhCUxEdaE-wJQU9hilGEnDi_VMKyDluVK_9TU1pnQPUoe_2HfFE6m7Yl1J25JmSr2CNpUpcaeWyE43YQo4H4ftiTl5H6gNha9kOBfGsr7EX_BRz_CdDpx-PCYK3Ea_63XMZOYZSII5ClKhvqbE1njgFL4Kl5An_utAm7RENG4kV2D2V3Y8w9l28PINIZEDkRE0gOBJ8ls00Fz7Y-c2UjlPGUQKMrq3AmD80dvz7esmL3BkHDrduUCfF8-HXB1GxCJEOQI9oZt521BBAZ4oVacTZoT4_7D5_wG6qG0uy-923x4vNKay4nXpF-3uhtYmh--RHs4KDdkH6OwZJfKJSWKkj4LMV4WyGDT0VgAaYcwcDCWGZIdWvlagIsWwu508Qg8DhAh58iyardILpca3L9onts_p7Z6BkyVt5cALVKzNe_LWT2amPEKAUF2IL2hG1lHbJaZ0Pjx1esfTwsxH9X_qFoFN3qRFCg-KbgnktAikq5yqiNjniBA9i80IebJxO-DfZYuK2T1-Mz5cp2ibhH1F9dCKvBH7oK650ccJH5rgBNipQV8Iy-NrbMyuAE4InLLPaOm2mRwu6Y66Qwx2lZ73NFmdw5W77nPzL2DCPS-cpVgJtQYIqtboOJRCpGf_V4nM-BFq9w=&xkcb=SoDD6_M3mXxi1OzZt50NbzkdCdPP&camk=UoKtGZLa3XL6KQ2caXj5-Q==&p=6&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-02T18:27:01.933Z"
+    },
+    {
+      "id": "1772476021933-05c5wgm",
+      "title": "Développeur Front End React / Typescript H/F",
+      "company": "Hays France",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0B8ERjU9PCcR394YuEEnZKBlhrjgGpDUbjbg22sHiQT-urBMedX5JtU_v6WoxkE1aQkT8_AzzVzf-gW14TTo4_SSRXPLMIkl5BqaXP4okQXhrc3WkC0ZCqVYBoCK6qHJ040joHV87XY6H1BrD1DH4FOeWO8epfhYjDEckziqYKUDlD1pY-BQeeS-ieV009j7FDBPdutrGAUveitGlyyozWFjMcLnh8GHNJ6KzOVxVBfzveV6wqTTsnp86gduWmLuvRLuYd1bq4UiPCsmZrf432YSeuJutcsPOjL6VJthU7pql15wKrTGpM1sxKzo_YsHKlxCWCv8t1WvbsY7gNchYfrPzEAZpY-cp9-Wu_-dhP3y3CVRfFemQTNSeWqe2EWIGmE4lde-S4o8MyrFqx64XzhCbP1A8YTMTrrQINRHZ6ZmagjJmX_Ojnbm4KBqxFrE4TMYL8oGwmhHppKv8iZrJ-0IavLYqXIazwpZD_XbzUApzzH0-wv0glW-CsJ2i9f7Rg5wdhMO4V7tiNXdCdp1y5jzZ9-gYKtHV-iVWGhDw48xPcI2Xznpn3Opm_iGuu15OTLrlGGPpsFVO4V5iSS3z7ZsTN_fQxmCONqV3dbc1-ZTT3Lh8slyjmRlV5-ON7qbgIwcWXkUS_rcMadgGyF8VwsFIRv51BEbby13rq36LOQFOnDlB1AdpWOU24SaakUCGsxcOoHAc9-fbuJvVvKITYH&xkcb=SoB36_M3mXxi1OzZt50MbzkdCdPP&camk=nUmJqO2E8riyE0CXatvsew==&p=7&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-02T18:27:01.933Z"
+    },
+    {
+      "id": "1772476021933-65qqvv2",
+      "title": "Ingénieur(e) en développement C# Micro Services (H/F)",
+      "company": "Avisto",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Dz8tzRwUKHl6vQyT1gFnMnVqWf2HSFNxF7PqDifhG-gSdlgnDuhNKVxg2yaMcURZEnugkK0XMxP3GsnOUik-RgwLcZJp7YuTzjNZ10RltzQOeXiUvzsTy-0d04Ki942cjR-KxZf54aVcZPOerQF259Nc05rLwJHL9Xg1yAlzmEKT7yemu8nvSs2cB1anq9agKJpWNxUQeXrM9poIq-K2KtPz0DBrrxrqBu7TgVi-O67CyW9hSOv_zI3k1Yeohwf0tkTaCeQT0ZQZeBsfDKKgsZQrLSrYonYp041R4-k7dQfTix1Ak6CDleuL3WXBL99R84DT3qMYVyOA9wv8JYNPtaN0rPKpN0satDTKRiiA3Jl4ejYVMTDEe1KjpTw7BvUrkKqMkGivnsCSJghPLBAKnVtfIYmQERbWXixb6z_xSLtIm_BhbNXoanoiT9hQPGeOMklycI4dN0_JbbhhL5RvlTF0a1FOCCkb578H4awKiB74136sEGUdoCLO4cd0eicOO5iG0A83CDSEwh_-t11UbQeM3eV1sP_A4BLGwUc-V6B2rEX5SRkwCz9VeNzmWFTQZE9H41ymCJXT4P0dnnyPfc-Ke_-sugYYkYGbtH9hknKYJk4SgSCp6LGRV09deTbJ83ZpeC4XqhaMutRN653r2R2wuziID6Fz1Osw8UAWsDX2ia4BW0-FmYPKzEiJBZ91mO1ObevFib839LkXdC1dawPvwKjZsPmQUS3QG3GwVisfYVGSYa1OzjYT6xcxUn08eGjq759jsj4tF5hXhJaKb4&xkcb=SoCe6_M3mXxi1OzZt50DbzkdCdPP&camk=nUmJqO2E8rjFvpFpYBqkQQ==&p=8&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-02T18:27:01.933Z"
+    },
+    {
+      "id": "1772476021933-5x3ihoy",
+      "title": "Développeur Back-end C#.Net Senior/Expert - F/H/NB",
+      "company": "Cegid",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DfmYQLYMrU8gNBWZWaZelSo2q88YgE4v4gC5ioDP8-xJa38MgnOzON298UalGQpgoMSWiF_9kLasuIfl2cf4ZzVd0dZIQDA8PrNEsc-tRtZ7qnpmKOen09QOZ0J9Uv9geILll7x_ds6i5vyZgTsRJQ1XknFMZaT_-1S_XGAYLMfNEiiuAzUWBRMlmI_CF0boo5ivVcXFqT2ZF_pYY4jOd7UuP2Nu130ODEAzyO4vwgG78kwRB6XDseUEfDJAVJlph8hB8S1yVn67crNks08Oqr-VYTJ_LlY6FTh3Xag9uXpgUoE1tIY2RU3L9lCD1xFoYCAalJo0GUGbzDdu3wRU79vMR6DRMMJtf0ZYqsQooPFpdYO-djQrIHC5RlEnl_-Aiqbxz02ARTzSqXFMFnJPoSXSkZkLIfQQKtzZszRIeW-6Hq0sC5kJ7qgD2QS5dvQQe7FG9mYu3jkGxnPtR_yrxZN-GyF2L0ZFPPEQUrxYU_aZ0sJUTaYlfDW3PaPLEO0SGM7-uBRFc8ynpkgKpRVJ92mjBOf72h1kcG0oWoCnFAomGImJFbYJKgEsHjS3hO_ajKkDsC168S1B-bZdI2VTn0OzRusS_H5lWtV5Bz0BCOsdeQX8vr9hiM6Yz6Go-6AXsCEeOAFDli63jhRFHzIdgS8C2XYTjXWPm14wTrUq_qNMnqbg1R-PRHwiltsbwZR7P7up9D8xoexKvO9CrT5kRiW8qeiAfpgm9V8dy96JdFdnSNCjUlAMiKViOLfr3q_eslJTt9LSv49DQNIePNiGQ2Gesn0pmt4f4=&xkcb=SoAq6_M3mXxi1OzZt50CbzkdCdPP&camk=UoKtGZLa3XL9MITaIaCYPA==&p=9&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-02T18:27:01.933Z"
+    },
+    {
+      "id": "1772476021933-g94kdw0",
+      "title": "Analyste développeur full-stack (H/F)",
+      "company": "EURO-INFORMATION DEVELOPPEMENTS",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BkX6x_KDzU5cVhaJujbQSv-MpOfS5CSZEJMKysooIe0IxdpkVhketXUf4OSLHMCUnn9QsUwz9KxB-4KAghQWOiuUxgtnxNcIO_rRSIEBYD6iZn5DKwUzqWzd-AmozBNVtKTQpMEHKc5rU4Pti6MjNtWqEDP1Hez9j_sOyWs4VAOKcMOIh1nyy6XdM7vHpxXcPIxH-fry3A2c9xGteIg8Y9EmEgwQiN-VURTdKbCfwLvZephWFAfLec5vHRL_GU79MqTUfpf2LiNRDADg_teMM6sX2fecxAP1sOnN4eqJhg0kcbacWMLBDo-w1sD9SHQxNFecz1vwcPejBcDMP02dWOsJtJGgnbu1wMgV1ZB3JT9F5WBuhgg1E6VgJTG59Z6ksok9QKbEeBVXnSSESA3rN1NB_fBEWK0JME2B5Yig94yTazsgIMhd-JCbP957JeGSO2sViOGs1-D4jq2yVzlo0sLayI2kPGf_zRdhNpEvtZ5wnlwV22zvxznzR3MOxBqWp5m1lSYr-nss39qhuqe9qPTKQhdmRb7Xu0JzLawMk4oXohAJHYm70DPNGUc5WfcZeJ-Stg-uLGWcvf5iMoEL6J1gqBnx4M3GQvyU5YmVa7Ozubtshif2nu9QIbDMjecZ7mc4n-ow_kx2isFLyB5r4-6JHwrCN1YkrRJqmSHAOcyQ==&xkcb=SoC36_M3mXxi1OzZt50BbzkdCdPP&camk=H-lBaXMUocKVqsP7bEAzTQ==&p=10&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-02T18:27:01.933Z"
+    },
+    {
+      "id": "1772476021933-oes5j4n",
+      "title": "Lead développeur Java H/F",
+      "company": "Groupe ADSN",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DbeVYzL5rQHKvNhrQ5PFyatQtRlchxJTQHt6U328tW3nccgxrAclHjdO60Z9o-rOKjLUP1swTZqm4UXXdE2VIihtMnhoREobd1tcraGcHFst2FkSFROGtUhfWL4sQXTTNw2NYxl5_3j_Sa2aNk_pzEvI0dYn3cmsyYEJ2x8aPK2ACKQNrhN078DbGYEElwnVx09AYdn-X_Nyfq7lYIY0-b28PAQNwHesQglrK8huiA4F_WgByz2RroiAKf9FeFMw495jPKcIkSUKAvJ08QZbtWq8WveZWrM2vulmwp2Y447MsnC0Omum067pMpFtJPScpcIVMyLOGuxwAPRWcGlSmLCFKOccTOTET-X5hcZdjMRWveGMq_4_WvQYdW5BbXewH5CQidxcHLbGValfRr26vE6zBehFR1vm47sgMD0JTScjQsM00gtclA8TVlF_8bWVrCbUAMmJHBSTXVgJUY-ksz5bDsQTNST7-pGbLqpOjoUKB9fxn4yyApYlT53dKwd6BIqtpUYfAYgliUf1mrXcSXSjVlLTXf7-VVLrnkur9nHBt6KynCtZ4yighkJYrFYmT5ATGzJy0__Cnt99CgQWagSfCTZ36FLkReg3GkKkqLRW4nEEWQ7GO7yxYldKa6P63xNlUof2T9udGI-T-hXmHSvbQFxJSBCN9QJ4OlbXsLxJnlx5jSYJVY6FRWns_gvrQ9uL5o6o-x9w==&xkcb=SoAD6_M3mXxi1OzZt50AbzkdCdPP&camk=UoKtGZLa3XILdYiPHOaa_A==&p=11&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-02T18:27:01.933Z"
+    },
+    {
+      "id": "1772476021933-nkyafl8",
+      "title": "Developpeur(se) Senior en CDI - F/H",
+      "company": "France billet",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0A5vD-wy8Ag56jO7MkzxSgU2-46e5CHWSjjv3i-bNHvj-YlWeoY1fbaro0Ge-Z2WGqbrJvR3DHGJBgzgUYwYeEvjc-RE7P2OYEZ9TchbG9Q1a_gtPaBomXdN4A4ur98JsWaMH-_xRyHuKH3D6OBxElsyFOlD0rKMYKfyUUfno99WBRnpJeCfc7osUaoS_vIG0v69smoB-sGMDJaEo-F7-q0pdoxz7u_SfBcHp0NvM3WJ4hjxF2sms9YBQ_DVHJyllCgqlE5GsRnHEEMBoSFGIkBCaOUGywCEr2QuuaDZp3JX3Ej-ECxh1JaLR10c4cVs-xSgflsmAk-Ufn2hm0xdvFL-q3iFkL4TiJxz94pfFeew-5F7RP1tfVtVNeDJMI5WDw9yQlDRACrwUEdQ5dYOvwtCLjVGQOQsSRzv8C9RfEmaVdntksXlzfehiYUh6wKf1_yIYkzJLm_ndT_B6uJJ61k9qnCA2W_ezC5tDJA4UHX6ilZhVvcpoIT56fMwTb8A3PE1Uhzo7SQTCDa0sDNbvt1scgnlAd162Nf34YCZOSBxwb-_PPIQcTCUCcTYcRYkuA8MCeaNlJrmQZju4YrPdMCXHuyPQMWvgUvio7XbxRidPnoFS503yWlXHeqAz2YBNJeqU8kVqNa13DpEmKr0H6q3dhG5wCjZk0QrLWFmGFJzDn77ejUJ6iJUvy_lwsqOakgcvOBw2fCdsCnih_o0uuBmx959tF2GEW_Lu0RnMcPbOI3KgUzdkuY&xkcb=SoCN6_M3mXxi1OzZt50HbzkdCdPP&camk=UoKtGZLa3XJ1NAGlpxlJTA==&p=12&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-02T18:27:01.933Z"
+    },
+    {
+      "id": "1772476021933-cp481la",
+      "title": "Développeur Full Stack .NET/React - F/H/NB",
+      "company": "Cegid",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DfmYQLYMrU8gNBWZWaZelSo2q88YgE4v4gC5ioDP8-xJa38MgnOzON298UalGQpgoRl7ri_ldocw0I6HS0CURPNRPglY6dfTy5bhusVlfKtbVoOKSMOihliPtHzIjEEZGoGOVnyQp35rA2CyE1TyFKu7FNtXM0mmnoLrMkv2nlknXMW8S5TP8bvtbRR954gta1YhdyPom6kKO47KgxpK2Pk1h7pQ1CTGcqDYdeNDtFkF6xQ3C8-xqHMnsh6yW0sNTpLTAkIEJf79nPU4XBO5fOapLIunb0M-busQSGF3niexlEYl2tJqAjTJNzX_j54EOBeggmrUoGDTW2SN8-BbUYvlK0ioPBRrvWDdtYrbSKPy0HjlIOWIDKN7k0RFf1najPRPgJehtxVR8NQhy2nqOwaOza6KD9IkO0HLUuknicIXI7ImMIwq2mnVrqYlLMqaYTiEL4TzMvKnIuk60yI7efcwhI3Nc_xnkOPvVYORiHDnPX3SG_E4eT0w3UN14bG-rRJ7Ksss_jEdk2Ubicsz6SylUR3lDBpJQwgme-QKDDtTq2mSep2J4KX0RH93eqm_CTRvxQa_YtNpoCYUcQ-8BNXzlHp9D-GOIsBdmeQBjcfDyJHQNwalQQeJBiY0CJlYWHEz-zvYfko9bEs2u3ffk6Pk63Ysmgwqp5BK4-R150bAM4l2eAOftXsPvcBgRlOghDeT1O1Ly_EDprmaHJ01aqEQhVHIISxaFIZ9dVVNavh3d5CVrOFtAPAkDn1Krv1_phiM03KDoVixPgyDT35FIFMdcAb7oD8Srhg8fU2nHX1w==&xkcb=SoA56_M3mXxi1OzZt50GbzkdCdPP&camk=UoKtGZLa3XL9MITaIaCYPA==&p=13&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-02T18:27:01.933Z"
+    },
+    {
+      "id": "1772476021933-xmq8yzj",
+      "title": "Ingénieur d études - Développeur(se) Front-Office (Pôle Digital) H/F",
+      "company": "MNH",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BrqtkEQKI7cpJRhohkQ2yfTX8C4eRuZIVve5z19Vbi_YcFUlfsrdQVjoq0yu6Py0YKGQuc-B8rjddUEtfXjGk3MfycaM1efr_AoaPkAY5apmkqqoMW99grDpus6k80IeehQPcTJSbpC4QnROPf6BngJ5GunWmd_lhxh_h2uQv0PgYpmp3FBrOqPQisVR01NdbY369NJpG1lAIb5Q3e7M1MHauHvM3_W2WHjdaPRm7TrjTPFJ74iiU4r8bGVZj8Rfbe_sv2DxH823Vvj8tTXzYWFdWQHOzRUqRV4h0Xpnw0-gSaQR257V16Znf3ZJOUf6GIbAf2YXqcU_xFOyLtXCdaSaOKlF7R2EDcwCeZ6FpqlP1sHlcmSfJ6SaO1Tkj5v_925IjDuVU6Dn0mrOEH08H-SSYcsjrWvwR4BVN5wVewEF3GTOj75mbcwYrMeKif_wtoDiO8idURE75rIrITlO9kbxeAAGzEWdKwbhQTpZ4FOatVZy2Wt2SC9SCcQWHOkKfFcYhftkB_tkV3lLPd793MZyKwRU0bG3IM0acJ-6UNTcnG4_juWfsPAwK-CtiJ7nsjyW2a87hPKKZFKvtzxxCSnXy0UxeyciqP7dhtDnNn6r9BglbdIV3uDRU-g8_yAyxQAFzlQwb8tU_Ro-xLXdGmwfj5SA2REG5kKMGvu4OEr19oOVuhPT0xVlqOq78HoxDZGogOmoJaW6ykVdxpEodgezdkc77-ntkEuVdFFI_P4nzJfMt0opFy8PZndR2FRVzd0rKuyE_-SA==&xkcb=SoCk6_M3mXxi1OzZt50FbzkdCdPP&camk=ethIe0s0hecU2jIJ267ilw==&p=14&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-02T18:27:01.933Z"
+    },
+    {
+      "id": "1772476030715-pnodnai",
+      "title": "Développeur(euse) Front-end - React  (H/F)",
+      "company": "Frontguys",
+      "link": "https://www.welcometothejungle.com/fr/companies/front-guys/jobs/front-end-developer-h-f_paris",
+      "source": "wtj",
+      "postedAt": "2026-02-26T15:29:04Z",
+      "scrapedAt": "2026-03-02T18:27:10.715Z"
+    },
+    {
+      "id": "1772476030715-znkfhlp",
+      "title": "Développeur Front-end VueJS 3 confirmé | senior / Accessibilité Numérique ( H/F)",
+      "company": "Warren Walter",
+      "link": "https://www.welcometothejungle.com/fr/companies/warren-walter/jobs/developpeur-front-end-vuejs-accessibilite-numerique-confirme-senior-h-f_paris",
+      "source": "wtj",
+      "postedAt": "2026-02-23T10:20:53Z",
+      "scrapedAt": "2026-03-02T18:27:10.715Z"
+    },
+    {
+      "id": "1772476030715-bglxxz4",
+      "title": "Développeur Front-End Angular H/F",
+      "company": "STAFFMATCH",
+      "link": "https://www.welcometothejungle.com/fr/companies/staffmatch/jobs/developpeur-front-end-angular-h-f_levallois-perret_STAFF_My7GP5N",
+      "source": "wtj",
+      "postedAt": "2026-02-24T09:27:52Z",
+      "scrapedAt": "2026-03-02T18:27:10.715Z"
+    },
+    {
+      "id": "1772476030715-4u6qbpk",
+      "title": "Senior Développeur Front-End - Team Poker (H/F)",
+      "company": "WINAMAX",
+      "link": "https://www.welcometothejungle.com/fr/companies/winamax/jobs/senior-front-end-software-engineer-team-poker-clients-h-f_paris",
+      "source": "wtj",
+      "postedAt": "2026-02-23T08:08:39Z",
+      "scrapedAt": "2026-03-02T18:27:10.715Z"
+    },
+    {
+      "id": "1772476030715-ukpwaal",
+      "title": "Lead Développeur Front-End - Team Poker (H/F)",
+      "company": "WINAMAX",
+      "link": "https://www.welcometothejungle.com/fr/companies/winamax/jobs/lead-developpeur-front-end-team-poker-h-f_paris",
+      "source": "wtj",
+      "postedAt": "2026-02-23T08:08:21Z",
+      "scrapedAt": "2026-03-02T18:27:10.715Z"
+    },
+    {
+      "id": "1772476030715-n0pjm8g",
+      "title": "Développeur Front-end (F/H)",
+      "company": "Koala Interactive",
+      "link": "https://www.welcometothejungle.com/fr/companies/koala-interactive/jobs/developpeur-front-end-f-h_levallois-perret",
+      "source": "wtj",
+      "postedAt": "2026-02-19T23:02:24Z",
+      "scrapedAt": "2026-03-02T18:27:10.715Z"
+    },
+    {
+      "id": "1772476030715-iodnmu9",
+      "title": "Développeur.euse front-end expert.e",
+      "company": "Upply",
+      "link": "https://www.welcometothejungle.com/fr/companies/upply/jobs/developpeur-euse-front-end-expert-e_levallois-perret",
+      "source": "wtj",
+      "postedAt": "2026-02-19T15:46:10Z",
+      "scrapedAt": "2026-03-02T18:27:10.715Z"
+    },
+    {
+      "id": "1772476030715-3ug7f8z",
+      "title": "Développeur.se Front-end",
+      "company": "Ergoss Logiciels",
+      "link": "https://www.welcometothejungle.com/fr/companies/ergoss-logiciels/jobs/developpeur-se-front-end_blagnac",
+      "source": "wtj",
+      "postedAt": "2026-02-11T13:45:05Z",
+      "scrapedAt": "2026-03-02T18:27:10.715Z"
+    },
+    {
+      "id": "1772476030715-o6p2k97",
+      "title": "Développeur Front-End (React, NextJS)",
+      "company": "NUMSPOT",
+      "link": "https://www.welcometothejungle.com/fr/companies/numspot/jobs/developpeur-front-end-react-nextjs_courbevoie",
+      "source": "wtj",
+      "postedAt": "2026-02-12T14:50:01Z",
+      "scrapedAt": "2026-03-02T18:27:10.715Z"
+    },
+    {
+      "id": "1772476030715-eqnjn2z",
+      "title": "Développeur Front-end F/H",
+      "company": "Unseenlabs",
+      "link": "https://www.welcometothejungle.com/fr/companies/unseenlabs/jobs/developpeur-front-end-f-h_cesson-sevigne_UNSEE_467zKX8",
+      "source": "wtj",
+      "postedAt": "2026-02-10T18:21:04Z",
+      "scrapedAt": "2026-03-02T18:27:10.715Z"
+    },
+    {
+      "id": "1772476030715-d5ugk3k",
+      "title": "Développeur Front-end React Native /Expo  H/F",
+      "company": "Linxea",
+      "link": "https://www.welcometothejungle.com/fr/companies/linxea/jobs/developpeur-front-end-react-native-h-f_paris",
+      "source": "wtj",
+      "postedAt": "2026-02-04T14:00:33Z",
+      "scrapedAt": "2026-03-02T18:27:10.715Z"
+    },
+    {
+      "id": "1772476030715-x18bphb",
+      "title": "Développeur Front End (React native + React) F / H",
+      "company": "EPSOR",
+      "link": "https://www.welcometothejungle.com/fr/companies/epsor/jobs/developpeur-front-end-react-native-react-f-h_paris",
+      "source": "wtj",
+      "postedAt": "2026-02-02T13:27:59Z",
+      "scrapedAt": "2026-03-02T18:27:10.715Z"
+    },
+    {
+      "id": "1772476030715-ld8m1lb",
+      "title": "Développeur·se Front-end Expert React - CMS Headless",
+      "company": "Meedz",
+      "link": "https://www.welcometothejungle.com/fr/companies/meedz/jobs/developpeur-se-front-end-expert-react-next-js_la-madeleine",
+      "source": "wtj",
+      "postedAt": "2026-01-28T15:04:25Z",
+      "scrapedAt": "2026-03-02T18:27:10.715Z"
+    },
+    {
+      "id": "1772476030715-e9abayq",
+      "title": "Développeur.se Front-End H/F",
+      "company": "Synolia",
+      "link": "https://www.welcometothejungle.com/fr/companies/synolia/jobs/developpeur-se-front-end-h-f_paris",
+      "source": "wtj",
+      "postedAt": "2026-01-26T15:07:09Z",
+      "scrapedAt": "2026-03-02T18:27:10.715Z"
+    },
+    {
+      "id": "1772476030715-b9g9l5b",
+      "title": "Développeur Front-End Senior VueJS (H/F)",
+      "company": "CYBERWATCH",
+      "link": "https://www.welcometothejungle.com/fr/companies/cyberwatch-1/jobs/cdi-developpeur-front-end-senior-vuejs-h-f_massy",
+      "source": "wtj",
+      "postedAt": "2026-01-21T08:13:51Z",
+      "scrapedAt": "2026-03-02T18:27:10.715Z"
+    },
+    {
+      "id": "1772476030715-mx8klam",
+      "title": "Développeur/Développeuse Front-end",
+      "company": "SAHAR",
+      "link": "https://www.welcometothejungle.com/fr/companies/sahar/jobs/developpeur-developpeuse-front-end_paris_SAHAR_1lPJXl6",
+      "source": "wtj",
+      "postedAt": "2026-01-20T17:43:34Z",
+      "scrapedAt": "2026-03-02T18:27:10.715Z"
+    },
+    {
+      "id": "1772476030715-so8mhxx",
+      "title": "Développeur Front-End",
+      "company": "Free Pro",
+      "link": "https://www.welcometothejungle.com/fr/companies/freepro/jobs/developpeur-front-end_marseille",
+      "source": "wtj",
+      "postedAt": "2026-01-21T15:46:10Z",
+      "scrapedAt": "2026-03-02T18:27:10.715Z"
+    },
+    {
+      "id": "1772476030715-xy3ypo1",
+      "title": "Développeur·se Front-end (H/F)",
+      "company": "Plebicom",
+      "link": "https://www.welcometothejungle.com/fr/companies/plebicom/jobs/developpeur-se-front-end-h-f_vannes",
+      "source": "wtj",
+      "postedAt": "2026-01-19T17:09:10Z",
+      "scrapedAt": "2026-03-02T18:27:10.715Z"
+    },
+    {
+      "id": "1772476030715-khh94m1",
+      "title": "Développeur Front-End (F/H)",
+      "company": "Groupe SII",
+      "link": "https://www.welcometothejungle.com/fr/companies/sii/jobs/developpeur-front-end-f-h_sophia-antipolis",
+      "source": "wtj",
+      "postedAt": "2026-01-16T22:23:05Z",
+      "scrapedAt": "2026-03-02T18:27:10.715Z"
+    },
+    {
+      "id": "1772476030715-7jb51pg",
+      "title": "Développeur front-end H/F",
+      "company": "Assystem",
+      "link": "https://www.welcometothejungle.com/fr/companies/assystem-eos-energie-france/jobs/developpeur-front-end-h-f_lyon",
+      "source": "wtj",
+      "postedAt": "2026-01-16T01:00:57Z",
+      "scrapedAt": "2026-03-02T18:27:10.715Z"
+    },
+    {
+      "id": "1772476030715-x0s6qmd",
+      "title": "Développeur·se Senior Flutter & Front-end (React) - [CDI]",
+      "company": "Lunii",
+      "link": "https://www.welcometothejungle.com/fr/companies/lunii/jobs/developpeur-se-senior-flutter-front-end-react-cdi_paris",
+      "source": "wtj",
+      "postedAt": "2026-02-14T22:18:07Z",
+      "scrapedAt": "2026-03-02T18:27:10.715Z"
+    },
+    {
+      "id": "1772476030715-8v4g8wj",
+      "title": "Développeur Frontend Senior (CDI)",
+      "company": "Perfect Memory",
+      "link": "https://www.welcometothejungle.com/fr/companies/perfect-memory/jobs/developpeur-front-end-web-3-0_chamalieres_PM_q09ANbN",
+      "source": "wtj",
+      "postedAt": "2026-03-02T14:01:06Z",
+      "scrapedAt": "2026-03-02T18:27:10.715Z"
+    },
+    {
+      "id": "1772476030715-zhfqhy5",
+      "title": "Développeur·se Frontend Senior / Senior Frontend Engineer",
+      "company": "ChapsVision",
+      "link": "https://www.welcometothejungle.com/fr/companies/chapsvision/jobs/developpeur-se-frontend-senior-senior-frontend-engineer_montreal",
+      "source": "wtj",
+      "postedAt": "2026-02-27T00:00:25Z",
+      "scrapedAt": "2026-03-02T18:27:10.715Z"
+    },
+    {
+      "id": "1772476030715-bgkfdiv",
+      "title": "Senior Développeur Frontend (Angular/React/TypeScript/API/iOS/Android )",
+      "company": "JULiA",
+      "link": "https://www.welcometothejungle.com/fr/companies/julie/jobs/senior-developpeur-frontend-angular-react-typescript-api-ios-android_lognes",
+      "source": "wtj",
+      "postedAt": "2026-02-18T09:45:42Z",
+      "scrapedAt": "2026-03-02T18:27:10.715Z"
+    },
+    {
+      "id": "1772476030715-cuywq80",
+      "title": "Ingénieur logiciel développeur Frontend - Montigny Le Bretonneux",
+      "company": "iDAKTO",
+      "link": "https://www.welcometothejungle.com/fr/companies/idakto/jobs/ingenieur-logiciel-frontend-guyancourt",
+      "source": "wtj",
+      "postedAt": "2026-02-02T14:03:08Z",
+      "scrapedAt": "2026-03-02T18:27:10.715Z"
+    },
+    {
+      "id": "1772476030715-4ex241a",
+      "title": "Développeur Frontend Vue.js confirmé F/H",
+      "company": "Colibri",
+      "link": "https://www.welcometothejungle.com/fr/companies/colibri/jobs/developpeur-frontend-vue-js-confirme-f-h_COLIB_qxGQ1xJ",
+      "source": "wtj",
+      "postedAt": "2026-01-30T09:27:51Z",
+      "scrapedAt": "2026-03-02T18:27:10.715Z"
+    },
+    {
+      "id": "1772476030715-plseslo",
+      "title": "Développeur Senior Fullstack / Frontend TypeScript (H/F)",
+      "company": "May",
+      "link": "https://www.welcometothejungle.com/fr/companies/may-fr/jobs/developpeur-fullstack-frontend-typescript-senior-ou-intermediaire-h-f_paris",
+      "source": "wtj",
+      "postedAt": "2026-02-18T11:26:07Z",
+      "scrapedAt": "2026-03-02T18:27:10.715Z"
+    },
+    {
+      "id": "1772476030715-l5uankh",
+      "title": "Développeur·se Senior Frontend (orienté·e Fullstack) - Toulouse (H/F)",
+      "company": "Roundtable",
+      "link": "https://www.welcometothejungle.com/fr/companies/roundtable/jobs/senior-frontend-developer-toulouse-m-f_toulouse",
+      "source": "wtj",
+      "postedAt": "2026-02-12T17:12:10Z",
+      "scrapedAt": "2026-03-02T18:27:10.715Z"
+    },
+    {
+      "id": "1772476041462-hwb8wpx",
+      "title": "Développeur Frontend Angular H/F - Alpes Contrôles",
+      "company": "Alpes Contrôles",
+      "link": "https://www.hellowork.com/fr-fr/emplois/73979069.html",
+      "source": "hellowork",
+      "postedAt": "il y a 7 jours",
+      "scrapedAt": "2026-03-02T18:27:21.462Z"
+    },
+    {
+      "id": "1772476041462-irlolrp",
+      "title": "Développeur Frontend Angular H/F - United Solutions",
+      "company": "United Solutions",
+      "link": "https://www.hellowork.com/fr-fr/emplois/75205856.html",
+      "source": "hellowork",
+      "postedAt": "il y a 1 jour",
+      "scrapedAt": "2026-03-02T18:27:21.462Z"
+    },
+    {
+      "id": "1772476041462-zsd61l9",
+      "title": "Développeur Frontend Angular H/F - LHH Recruitment Solutions",
+      "company": "LHH Recruitment Solutions",
+      "link": "https://www.hellowork.com/fr-fr/emplois/76044848.html",
+      "source": "hellowork",
+      "postedAt": "il y a 7 jours",
+      "scrapedAt": "2026-03-02T18:27:21.462Z"
+    },
+    {
+      "id": "1772476041462-yqcxlh3",
+      "title": "Développeur Frontend Svelte - React - Vue H/F - Tesim",
+      "company": "Tesim",
+      "link": "https://www.hellowork.com/fr-fr/emplois/76274670.html",
+      "source": "hellowork",
+      "postedAt": "il y a 3 jours",
+      "scrapedAt": "2026-03-02T18:27:21.462Z"
+    },
+    {
+      "id": "1772476041462-h6w6qt5",
+      "title": "Développeur Frontend Angular Confirmé H/F - Adsearch",
+      "company": "Adsearch",
+      "link": "https://www.hellowork.com/fr-fr/emplois/76106573.html",
+      "source": "hellowork",
+      "postedAt": "il y a 6 jours",
+      "scrapedAt": "2026-03-02T18:27:21.462Z"
+    },
+    {
+      "id": "1772476041462-m0aw56g",
+      "title": "Développeur Frontend Svelte - React - Vue H/F - Tesim",
+      "company": "Tesim",
+      "link": "https://www.hellowork.com/fr-fr/emplois/76277919.html",
+      "source": "hellowork",
+      "postedAt": "il y a 3 jours",
+      "scrapedAt": "2026-03-02T18:27:21.462Z"
+    },
+    {
+      "id": "1772476041462-4mkkmxm",
+      "title": "Développeur Frontend Svelte - React - Vue H/F - Tesim",
+      "company": "Tesim",
+      "link": "https://www.hellowork.com/fr-fr/emplois/76116943.html",
+      "source": "hellowork",
+      "postedAt": "il y a 6 jours",
+      "scrapedAt": "2026-03-02T18:27:21.462Z"
+    },
+    {
+      "id": "1772476041462-vl4zgkg",
+      "title": "Développeur Frontend Angular H/F - Inetum",
+      "company": "Inetum",
+      "link": "https://www.hellowork.com/fr-fr/emplois/70310320.html",
+      "source": "hellowork",
+      "postedAt": "il y a 17 jours",
+      "scrapedAt": "2026-03-02T18:27:21.462Z"
+    },
+    {
+      "id": "1772476041462-oohgesq",
+      "title": "Développeur Frontend Angular Senior H/F - LEA",
+      "company": "LEA",
+      "link": "https://www.hellowork.com/fr-fr/emplois/71550416.html",
+      "source": "hellowork",
+      "postedAt": "il y a 14 jours",
+      "scrapedAt": "2026-03-02T18:27:21.462Z"
+    },
+    {
+      "id": "1772476041462-lxabotc",
+      "title": "Développeur Front - # H/F - Astek",
+      "company": "Astek",
+      "link": "https://www.hellowork.com/fr-fr/emplois/68479157.html",
+      "source": "hellowork",
+      "postedAt": "il y a 3 jours",
+      "scrapedAt": "2026-03-02T18:27:21.462Z"
+    },
+    {
+      "id": "1772476041462-wjej8lp",
+      "title": "Développeur Frontend & Mobile - Editeur de Logiciel Saas H/F - Skaelia",
+      "company": "Skaelia",
+      "link": "https://www.hellowork.com/fr-fr/emplois/76311492.html",
+      "source": "hellowork",
+      "postedAt": "il y a 1 jour",
+      "scrapedAt": "2026-03-02T18:27:21.462Z"
+    },
+    {
+      "id": "1772476041462-rw11592",
+      "title": "Développeur Front-End H/F - Plus que pro",
+      "company": "Plus que pro",
+      "link": "https://www.hellowork.com/fr-fr/emplois/73935688.html",
+      "source": "hellowork",
+      "postedAt": "il y a 8 jours",
+      "scrapedAt": "2026-03-02T18:27:21.462Z"
+    },
+    {
+      "id": "1772476041462-rfpddpp",
+      "title": "Intégrateur Applicatif H/F - néosoft",
+      "company": "néosoft",
+      "link": "https://www.hellowork.com/fr-fr/emplois/70816713.html",
+      "source": "hellowork",
+      "postedAt": "il y a 4 jours",
+      "scrapedAt": "2026-03-02T18:27:21.462Z"
+    },
+    {
+      "id": "1772476041462-pzysh60",
+      "title": "Développeur Front-End H/F - Plus que pro",
+      "company": "Plus que pro",
+      "link": "https://www.hellowork.com/fr-fr/emplois/76062475.html",
+      "source": "hellowork",
+      "postedAt": "il y a 7 jours",
+      "scrapedAt": "2026-03-02T18:27:21.462Z"
+    },
+    {
+      "id": "1772476041462-7oc9lfw",
+      "title": "Intégrateur Applicatif H/F - Atos",
+      "company": "Atos",
+      "link": "https://www.hellowork.com/fr-fr/emplois/76039407.html",
+      "source": "hellowork",
+      "postedAt": "il y a 9 jours",
+      "scrapedAt": "2026-03-02T18:27:21.462Z"
+    },
+    {
+      "id": "1772476041462-wadxdm5",
+      "title": "Développeur Front-End H/F - Groupe SII",
+      "company": "Groupe SII",
+      "link": "https://www.hellowork.com/fr-fr/emplois/70563977.html",
+      "source": "hellowork",
+      "postedAt": "il y a 10 jours",
+      "scrapedAt": "2026-03-02T18:27:21.462Z"
+    },
+    {
+      "id": "1772476041462-4xj2vz6",
+      "title": "Développeur Front-End H/F - AIS",
+      "company": "AIS",
+      "link": "https://www.hellowork.com/fr-fr/emplois/75958857.html",
+      "source": "hellowork",
+      "postedAt": "il y a 11 jours",
+      "scrapedAt": "2026-03-02T18:27:21.462Z"
+    },
+    {
+      "id": "1772476041462-o78oefr",
+      "title": "Développeur Frontend- Projet de Ré-Architecture Stratégique H/F - Celad",
+      "company": "Celad",
+      "link": "https://www.hellowork.com/fr-fr/emplois/75874860.html",
+      "source": "hellowork",
+      "postedAt": "il y a 13 jours",
+      "scrapedAt": "2026-03-02T18:27:21.462Z"
+    },
+    {
+      "id": "1772476041462-k1jbhpe",
+      "title": "Développeur Front-End H/F - RÉSEAU TALENTS",
+      "company": "RÉSEAU TALENTS",
+      "link": "https://www.hellowork.com/fr-fr/emplois/75818652.html",
+      "source": "hellowork",
+      "postedAt": "il y a 14 jours",
+      "scrapedAt": "2026-03-02T18:27:21.462Z"
+    },
+    {
+      "id": "1772476041462-71augxy",
+      "title": "Développeur Front End Angular H/F - Segula Technologies",
+      "company": "Segula Technologies",
+      "link": "https://www.hellowork.com/fr-fr/emplois/75026371.html",
+      "source": "hellowork",
+      "postedAt": "il y a 4 jours",
+      "scrapedAt": "2026-03-02T18:27:21.462Z"
+    },
+    {
+      "id": "1772476041462-mfmxz20",
+      "title": "Développeur Front-End Angular H/F - AK Recrutement",
+      "company": "AK Recrutement",
+      "link": "https://www.hellowork.com/fr-fr/emplois/76282141.html",
+      "source": "hellowork",
+      "postedAt": "il y a 3 jours",
+      "scrapedAt": "2026-03-02T18:27:21.462Z"
+    },
+    {
+      "id": "1772476041462-a6zet5w",
+      "title": "Développeur Front-End Reactjs H/F - Pact&Go",
+      "company": "Pact&Go",
+      "link": "https://www.hellowork.com/fr-fr/emplois/76338378.html",
+      "source": "hellowork",
+      "postedAt": "il y a 4 heures",
+      "scrapedAt": "2026-03-02T18:27:21.462Z"
+    },
+    {
+      "id": "1772476041462-i5xzr8q",
+      "title": "Développeur Frontend Angular H/F - EXELCIA",
+      "company": "EXELCIA",
+      "link": "https://www.hellowork.com/fr-fr/emplois/75388886.html",
+      "source": "hellowork",
+      "postedAt": "il y a 26 jours",
+      "scrapedAt": "2026-03-02T18:27:21.462Z"
+    },
+    {
+      "id": "1772476041462-9fol15o",
+      "title": "Lead Frontend Developer H/F - Bloomays",
+      "company": "Bloomays",
+      "link": "https://www.hellowork.com/fr-fr/emplois/74712122.html",
+      "source": "hellowork",
+      "postedAt": "il y a 14 jours",
+      "scrapedAt": "2026-03-02T18:27:21.462Z"
+    },
+    {
+      "id": "1772476041462-6tvq78v",
+      "title": "Développeur Front React H/F - Cabinet de recrutement de travailleurs handicapés",
+      "company": "Cabinet de recrutement de travailleurs handicapés",
+      "link": "https://www.hellowork.com/fr-fr/emplois/74040558.html",
+      "source": "hellowork",
+      "postedAt": "il y a 6 jours",
+      "scrapedAt": "2026-03-02T18:27:21.462Z"
+    },
+    {
+      "id": "1772476041462-6v20zce",
+      "title": "Développeur Front Angular H/F - Recrulab",
+      "company": "Recrulab",
+      "link": "https://www.hellowork.com/fr-fr/emplois/76125551.html",
+      "source": "hellowork",
+      "postedAt": "il y a 6 jours",
+      "scrapedAt": "2026-03-02T18:27:21.462Z"
+    },
+    {
+      "id": "1772476041462-17mcd9f",
+      "title": "Développeur Front-End Senior H/F - MINDset",
+      "company": "MINDset",
+      "link": "https://www.hellowork.com/fr-fr/emplois/75236325.html",
+      "source": "hellowork",
+      "postedAt": "il y a 19 heures",
+      "scrapedAt": "2026-03-02T18:27:21.462Z"
+    },
+    {
+      "id": "1772476041462-cl33yqv",
+      "title": "Développeur Front-End React H/F - Seyos",
+      "company": "Seyos",
+      "link": "https://www.hellowork.com/fr-fr/emplois/75125412.html",
+      "source": "hellowork",
+      "postedAt": "il y a 2 jours",
+      "scrapedAt": "2026-03-02T18:27:21.462Z"
+    },
+    {
+      "id": "1772476041462-9kmnrs9",
+      "title": "Développeur Front-End H/F - Groupe SII",
+      "company": "Groupe SII",
+      "link": "https://www.hellowork.com/fr-fr/emplois/65401448.html",
+      "source": "hellowork",
+      "postedAt": "il y a 15 jours",
+      "scrapedAt": "2026-03-02T18:27:21.462Z"
+    },
+    {
+      "id": "1772476041462-u5rf8wp",
+      "title": "Senior Frontend Developer Nextjs - Reactjs H/F - Hunlink",
+      "company": "Hunlink",
+      "link": "https://www.hellowork.com/fr-fr/emplois/73136674.html",
+      "source": "hellowork",
+      "postedAt": "il y a 3 jours",
+      "scrapedAt": "2026-03-02T18:27:21.462Z"
+    },
+    {
+      "id": "1772476113089-flniafp",
+      "title": "Développeur Web Front-End",
+      "company": "Q-Hedge Technologies",
+      "link": "https://fr.indeed.com/rc/clk?jk=8a8aa96805a34e2f&bb=UcJrKiOkSH-jBfv096mYWEwuYiHVCHTURnrgyE2lpu2b_V_kdbzvsFW60Qnr2bdf0Wn5jIGevjWQYWRc4Zyp2pwi_Fll6RSXHHeGgcnlV9g_PcKBKCnXJZ8RtD8Yu65R&xkcb=SoCs67M3mXx36VAMB70LbzkdCdPP&fccid=f36d99d044d9fd28&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-02T18:28:33.089Z"
+    },
+    {
+      "id": "1772476113090-i3bl1wc",
+      "title": "Développeur Front End",
+      "company": "DreamCentury Entertainment",
+      "link": "https://fr.indeed.com/rc/clk?jk=a8408f645b925a16&bb=UcJrKiOkSH-jBfv096mYWN5HqzxDmW-7u6_8urtzJhYtA4-9-8e0mOPe4ZQBz3QyzYds-QWJzyVsGeYEgNXQMZ-uG7v9u-0_K4nQAWzHqtQLz7HygSzUXRb6Y1iF9Wqo&xkcb=SoAY67M3mXx36VAMB70KbzkdCdPP&fccid=6b2f58e1cf258b6c&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-02T18:28:33.090Z"
+    },
+    {
+      "id": "1772476113090-tq6vdjk",
+      "title": "Développeur front-end H/F",
+      "company": "Cegedim Group",
+      "link": "https://fr.indeed.com/rc/clk?jk=e816ddd589f0bca2&bb=UcJrKiOkSH-jBfv096mYWNtB18vPh-U1aRlhADWa0x1E7ZY6rBddQYEKS6on6cA1_XJHuMwIl_lf-J9nlMINmpXfD17h2ftIl0D6vXmTql8kiph_LSxkO_Yl4TJkN34g&xkcb=SoCF67M3mXx36VAMB70JbzkdCdPP&fccid=8397d27fa71913c8&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-02T18:28:33.090Z"
+    },
+    {
+      "id": "1772476113090-aurr0wf",
+      "title": "Développeur Front-End WordPress (H/F)",
+      "company": "Studio Ikadia",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0A-rh-QExCQlGufSpteE3pn_YdmD0tgbSPRGB6_in74M8F3uhpbIZ1qn01jjnVIXwe4S5Fsx7uZiyW6eHEsm0VCTyKni2NE1-drDIaBrwO-GbHDFFH40b4l9YsuBvJ-rf1czwvGY2fET2bYTOvmWnRc14goEmLRVAoPXDP2Zix0pixleuHk6jqhu-bJEmP1FplKokWjBPfU2iMgQaApY9OtDusEmeZCh65d-_XnKB-hRsZAZDBjvsEkUargM8imvjTa80hQ6uq0P4KdIiaQvmj0U1Ed0Ba8jpvLMOsszB7K2E2C8VApcEuZJyoJaOYdqPRehYyoZJs_lBPRM4g74d2pM2muuKSG7fYHnB_8ybu7i7bxOacd6VW8Vf_AzsCWii0PDq3NQDNpK5XSmWYFEoce-ZqXCyNxmX6WtQuefzw4lepnIHmKOw3twLj-ioGTbmB8xONQ0yM0jRT00JZ4-zeXrNxrz6AndxY4im7Xd3ivhQHtpUg2gnOVqddhUBbGq2GVpdNGCHLlGtDJm9BRcafYdeZqqWfh_e3_9zD0rvdB4iW7sFfR8K2uyOs8VrnUyXTqjiRMCTB30W9hSCME8VYLb6tlSswp81GOoI7nlXmOUPqrqcMrNDZS76sbzDAfhq5cPomJ9ASueAtDadvGH0ewVcpz5x0rZaf7Sn_shsTKKUeFO0lNJ_8_LjJeEPscHopwXeZB_eT__cDxpFXU93o9yuG2RbsM2XthcKX42kc9iO1narBsKU0MDvci0n5ksAk=&xkcb=SoDF6_M3mXx36VAMB70IbzkdCdPP&camk=UoKtGZLa3XI8M-50SWtgOg==&p=3&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-02T18:28:33.090Z"
+    },
+    {
+      "id": "1772476113090-ha2k2sk",
+      "title": "Développeur Full Stack - MedTech - Java/Angular",
+      "company": "MédiFirst",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AlYmTzYQPdPu8m3D25dQQjgHEf5O7_4BNqtUoqNpVa3eOZ929P0UtEEKhXsyVTucSPs4PCMtJNJ8sx2sySTzirvqzQ7Cy4ywKSuK0dcyZF8U-7JFwV7jM1NjwjZRKeUfAAHa3A20k8qucjvTpNqCzN4DDZPedHreH0G-m8I7HIew1Of0QJ_yld60b4XHu4eMOBO0LJHMC2v8dhIYgKyRPaoH0B_fxza9zau25x4muQk8LICEYDIXrBfqftduAWXa45Mbzb5v5ChPsgiAouQpI3cX8Psldvc9fdVWZyw9-mFBML1QpZJShLEH9sS9vabS2cF8avW4496xD3LlcAAAQmbbMJi3IV8BpTu4l484CduhfSCGqxgJahwBlQ4ikGo54ofimPc88Z-mhwEXbmFi16qMT_DZ7qSxlcGilcM87gThSijFKddR8ITlU3y6lhjy2yedQkArX2k2W5XVVQr8pjBc2LMs4S_jvjudNfL-qbN9tUMYoaZre3f6TxoAXPVnSMp-Vh2Oh-I-itgTVjI_-5An8PUj-wu9LCzCvDeAf7DMYdUj_a_-1MZV5QWppvInuCfiD8uSS3iy5K64-ms5qiHUQBOEE9GP1kXPJtbtZT4HyeJ3Tgfva4lBEjQQ7jGH8yVaLUrax6RInN8naBgbzglCsvFKNK57lCgWNXNXnG9IbQdlZ5Jh_IYljwNuQdvAw9MDwL1xipNjTN3kg9Qk-FdHftD3BIDt0vzAl3eJCnTcQmBnWU8Xbfk0pdjTKJmnSXRkb5Ttj3uw==&xkcb=SoBL6_M3mXx36VAMB70PbzkdCdPP&camk=UoKtGZLa3XJ8vyWliXUQvA==&p=4&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-02T18:28:33.090Z"
+    },
+    {
+      "id": "1772476113090-5uob695",
+      "title": "Développeur Full Stack .NET/React (ISH) - F/H/NB",
+      "company": "Cegid",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DfmYQLYMrU8gNBWZWaZelSo2q88YgE4v4gC5ioDP8-xJa38MgnOzON298UalGQpgot4zyIcuqR8vIYHy-ng3QGG8r5lSPPkNDlqM-QlyN2rvsKL-EeUbVWQuggkYd1QeaYhb9mIwSbqHlvIdHFfep8PUQbpZy8lGZLyMnPZ9Yz9xS7s5dw8f3runknvWSRK2umzFTu7FvVHPOrm_7Tp4ClEPakR-O6rlrIwrMO5ciRnA1Yh1Rg6kvH-Q_WTUqhMPmEfCCpmd0QUskKOiq0qVwb4cXLw2gbDiNZYcW4AX1EIoUnLxeOBk0ahEqSd_NwxsTwi_lnpqMYUEscFmiBkQmGjHv72z7FQibU00hFSvMrRQY6Ebqqx3yXyndko2TsnIv7gTa6HjQBMZWrlYz8uZs31tpfvaAxmFhG7JS57S0SvikmpiLhyOuRN5U1qZkteTt81_eQxyWMCrQN6xqXflWGJ8INOQA3J4x4V88vt7Sj1jAK13e5InjOis2dVKNqmgAMUYkbPubVsv6wniBwYKlPFbWJ9zo-B0FxiqT8mxLHALwWLJzQi_mgTCp6FsGMGmXwEXenjyOZfWuSceT8tjoSo7AxM2aeTj2th65GX5pyFErutH-U5UlfgrRxb0WioRJEJF36C1oZMg8qr-h1pxT3mSS-sdUXAQ2jpTj3ZKDxkzfWtqeytORgouMXH1SzZItaWfzWIspjoDLDuwDlyaFhXw9iYo9eeWT_eioPjajj95vvbW6GGtzZ8AYNuAL6eW4rvR6_W2Pyc4OqUwDrMFsVgJFLe_WeEzg24G7-HgU5Bw==&xkcb=SoD_6_M3mXx36VAMB70ObzkdCdPP&camk=UoKtGZLa3XL9MITaIaCYPA==&p=5&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-02T18:28:33.090Z"
+    },
+    {
+      "id": "1772476113090-me65d1l",
+      "title": "Développeur Full Stack (H/F)",
+      "company": "AgileSoft.NC",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AsrcXh1n33AShJydKXOi264FWyEWyBB3bmwuTBPn6v1Wjt167eaqSQywc1LfhY4VCLPkGDcNWuTmLUMN8u0TpIivgGidZp7UaEgcN5-rlkizNPhog7-cvToNg4-rlY989p46WhNpaFpWymnlPsUFvAWVsddNMIGd0TEhU-2Ay0sVnJ3B8nA0hfnWqUCN51eBOgRwRUKwuRJq-f-RAf-MQrmABzTOSwUIkR1JrOSevssR1383ijQYMNJbUNI4bPv_GhvpUrR82B_FsWdykqvs-N2VNRPfy-YiBDFA8hf5A2eO53_PQhEPgpVp_cCCrwq-hWCSofTo2MBlmr_QUouQnlJttHH0deWIykAjnM2CKYUHNYTnaWYK8yAMPRoTodoHHZN9ZkekMqxzfl1qxM24h1XpSzs6ivramFLU8WM9Ld9Fdb4Rh8yU2a_HIAmwZkNbyLiPa4YNk3YIQQXnXo60hNqD_XqOEAo5Swn5GFLiCSLdx7ajcbrk7lQcqu3zawgOV0jyj_1CaM3Od1D2ykwZu5GC9NQ_CkJOg_CuqMps2NlTWKW8pMh5qU7nIX-YcUV1yWyNE3PkgoBhPsDXuBTKEfYcpPG48YlKKRsgkOZBJlkDyQ0pbuCs3HJo4p53-uIw6iFpAYofyy5WfPsBydMkKqF0ZgqnMPRY4bw_-wi2dZqQ2r1iHridNEsOibgNOQ9SQ=&xkcb=SoBi6_M3mXx36VAMB70NbzkdCdPP&camk=ethIe0s0hecWHWABnq8LdQ==&p=6&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-02T18:28:33.090Z"
+    },
+    {
+      "id": "1772476113090-q0zefdz",
+      "title": "Développeur Full Stack (H/F)",
+      "company": "AgileSoft.NC",
+      "link": "https://fr.indeed.com/viewjob?jk=fedcba9876543210",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-02T18:28:33.090Z"
+    },
+    {
+      "id": "1772476113090-ylup9ee",
+      "title": "Developpeur H/F",
+      "company": "GFC PROVAP",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0D7broJqrxS-DJuMRqS7RlG7mkUNGAkbIjRh5Ef9uJBMiePTh34NDb5Edw4RYCalFLyDvngn3w1fxxrnNnZaTd3OtOz7TR6Wtml6dFr5_HoU9qpoguuEREAoll53E35f1TYVWHWGNeHS3EIyuoFmikB7UITVnmt4jT-UIC711P380OLZPVC2nxKHyJ2OGGHXWYjgCTBeBaX9YzFIEQW-elYqcoQ84bAMSb3m71pEUbG2T4gICuclhkCwdS7t1ht6TQhA8M6Cgso_wKK7khmm_cojwbAyyzoD3aUc-txZ5bKDn6APDAsLfMaE3j1JkerQUaa485QlNeqX6QCnQZWTDK0kLzkxL28UP4LOkeJuHBzoaMFm08bAjUao-A50dEE-f7dYhZu-w42MnAjlxymQQv04x4j0jBVmm_jqmNPKQuroS6UDUeUugBJsx7Lwgf3GaTRzgKmMDkqvKS_ogkqfsy63znVlXuwvVpPWEAX-ErrLeG9IEPu9-L9yS-aBGnre58T56cOlnh646rUTqaV5tW0IxfKYd3aTxCnoGRgNz0KrYWnay4L1T44rCp0vagUE0ZMUsEQFR90UDffXwLQirY1uiFG2j1VFveYEXU_4Zuo-z-_l_knQZxkaDxwNCbsWn2upV4QMW4qLuA7He2KbsmVbll50HFFJ3ikDrtUo_tijmhMVF_ta9-7&xkcb=SoDW6_M3mXx36VAMB70MbzkdCdPP&camk=H-lBaXMUocL9w0XjqyUM-g==&p=7&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-02T18:28:33.090Z"
+    },
+    {
+      "id": "1772476113090-q7hmptr",
+      "title": "Analyste développeur Back-end junior (H/F)",
+      "company": "EURO-INFORMATION DEVELOPPEMENTS",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BkX6x_KDzU5cVhaJujbQSv-MpOfS5CSZEJMKysooIe0IxdpkVhketXUf4OSLHMCUld8SjEvw0O4YrcmWmip68r6Dk0xfQpW06aMrK02VjArKhCwmC2OBxErN12EgWbu3N3xsB9WDmJc0EbHccI8Lq5qwpPzOoKRMQUnLRTn6JnTAzx6b2wjvig0oWuOiPy8hQHLoxAsgglvcAyGTVaNpJM9zJQ_ebQ1M36f-tFPb_AyHpnh6s88NY2OfNHqSt_vOU1W9dKVAL0XIwlIy-juqmQ-dIlRT0qiSJLjhodQ-1GyaDKEMug_9p1zXDFG_V0zkiZxzndvNRMxQG4cxAbaGgrt4i4-fhQSLukbIbay505FpomuWd7KQaTl5e7W5rKi-12t9y-XQRdmrG033Lv79tWYW_2yHmhnrjNxJaNVYKZk8CsMdyfc149XEWRVRSmqFcV5Qpxsp-I7q1tOrMav3bhZOI_4k8ZN8yY0QrpME44TvsXuwtgwThYb91Cjqy5si0L0il_4QZR5B6FcGVUXmom_JdcNt11rH2AfgBkaHou-Aeg1hDeYqDp-lB_Sq-pEiNgpXBpXeyJlh-xtdPrIveB5aCA46x6InRP22Mo7uGppXk3wiLDNt7VVxOC0uWvrTwjtCPjwKL-Sj_L5bfGhVLpSDRb1FeJmDI=&xkcb=SoA_6_M3mXx36VAMB70DbzkdCdPP&camk=H-lBaXMUocKVqsP7bEAzTQ==&p=8&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-02T18:28:33.090Z"
+    },
+    {
+      "id": "1772476113090-9x37dis",
+      "title": "Développeur Web PHP full stack",
+      "company": "SYDEV",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CYKC0BGEI-i5lfJ4Y6HJvJJdkYSp1H8eG60InuHD-gwwfu4Yr3LKMFY2De1LToZ5NNKow9oIgZuj16332-tqkVWXV8o0JKvhWng_SZdT7rIbnYCfYvbO9kXidWse7_aSoajmdtwDGp_7oZ8rvi8l_YyDlWvdBBqihN6Gd9p1I8dl9LOaVmfR-yDPo-fDgvALPOc5iTmKSAjMpt0zl_S8daX6x3uuMcl_iNlnmodZsMS9UN9GV_5fSwI7_YAVM8wsFyMkerW8liw5RKNLKfiAJ7UphnBAYGEbYXSy488B7v9cP4nfVMEkdzquVB3BMx9-FGbZ80rwxmJ8BCEdzXu4PfySZDVmV2tXmcPo5bQ9f2Rb9aGgtiu1dhKXi1ZfWhXpkXCP0wpPlFNAJWsYjbL1j-NUi283P1v9uouOhryfDwykYtpdETmiUtHXHYKnyTvPR1qfHF6bwZb3A0cYKbJ3cMY-1tsSVYypKo1mJui_bpuVGAMncVemTUGRW9fcUyodfIXXBy_bq9X_LTMm-vCaxcHSVbNFn_whFGKpjHxIQSBUSJt7fLAQjsXGuKffRtlV3hpWQqNfJqE3gYibZu1MG4ZWkLdXDw7FSK0MLsPWBEnSQ3O2ibhTUDYSLnYVa8t0g5I4999Yoel9D-INeplWNFMJXOcSKlQ4X5GYoV-TM3uOGCCLr4efCYU2RK5JEYBhOo3T1qG9LT3yOZkK0mBK-9k4sQYyxm4DZnZUyH9gPn2Q==&xkcb=SoCL6_M3mXx36VAMB70CbzkdCdPP&camk=UoKtGZLa3XKlqHgnPljpXw==&p=9&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-02T18:28:33.090Z"
+    },
+    {
+      "id": "1772476113090-mwha8md",
+      "title": "Développeur Front-End Angular H/F",
+      "company": "Hitech Software",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0B-5o-8t6Bp_VSTWK9AMnz62DEx-IunthBhXOwYHWxMCY-7-rZ9Zz-iKb-YL-ipiv1iSuuLJPtyPE0y1It5p9ShrubuhCUxEdaE-wJQU9hilGEnDi_VMKyDluVK_9TU1pnQPUoe_2HfFE6m7Yl1J25JmSr2CNpUpcaeWyE43YQo4H4ftiTl5H6gNha9kOBfGsr7EX_BRz_CdNsQOaO6KlrmZ8WBBQ3swn88JNVTF0pt5lpr-xpUui2cGMNShc98nNI-kXQX-siEVR9KDDOETUFrNVUJbMVStW1Zs0ofAG4yTA_hSZXGGKQQeaRiFGMhvWuX2YxBG9BpyU32lD97-m10RKJBxncF_OzATOS3wCNZ0GMmPsIX5FlLcdIFacbNEswqw26f8uDIqMT0pjYloKNrArZxSHRKMeVPYSoavdJFo_-xUiOq2TtP5QszWhtNZk7fMl-wj0ap2K8-x5K5F04QBK2Ii8Uq18ke_i20wz-lQ6T3ly0oFX5jxdD6NcpUY39SWtmi4VF68oauBU4t-qvjvSNQUN4tJ5G66qbZrFLGpzCs5q7MwE9cWjENVaK26Uxn0lm3G2Srf6JGl2Q69s5CGaOmC3kbQ_505b9v9zCxNMY6YqizU6h6lC5xWyJ1HpEHwD_CD3T6szGFVjopQ2t6DoiJ_u_qFxXP6FYuN4rSbIF5IBCyu98JWXBzAh0t0LRTLoP1OS3Zz68pUYs_w86-GqDhsim9Yyw=&xkcb=SoAW6_M3mXx36VAMB70BbzkdCdPP&camk=UoKtGZLa3XL6KQ2caXj5-Q==&p=10&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-02T18:28:33.090Z"
+    },
+    {
+      "id": "1772476113090-ve6gv1c",
+      "title": "Ingénieur(e) en développement C# Micro Services (H/F)",
+      "company": "Avisto",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Dz8tzRwUKHl6vQyT1gFnMnVqWf2HSFNxF7PqDifhG-gSdlgnDuhNKVxg2yaMcURZEnugkK0XMxP3GsnOUik-RgwLcZJp7YuTzjNZ10RltzQOeXiUvzsTy-0d04Ki942cjR-KxZf54aVcZPOerQF259Nc05rLwJHL9Xg1yAlzmEKT7yemu8nvSs2cB1anq9agKJpWNxUQeXrM9poIq-K2KtMtSlJxEp2d7tfG__C6_uIEARCSF6M__aLiKpPyDXH9XNRabHZE-yK7e3xIS8L0azpTOAqlOWWKGY2XCUZvWCuDSZs7qO2ni4b1FQRjJgmTwQsPEMiBugOBX_N64_tcCaEUC-5xrkGycVNmNjGKuMdXQczmH_MJYKlnoysWg2ljJ7x2Mvrp69-rZqUOHLDArXJEkphE5bhNSbMJPSd04D3PF5pzjoBvBka8b-NNnmtYHMBy8y7rRa81kKkxZCqA3V5EtP7O3IO4UYwKPJtRmieOqhrqxybzUgUmPzZxqJVvXZChKoEv6nUFTdxsIrvvOJA92V1KBK8hMIxVBzJL8YUdur1pY-79sj5a4X67XWq9hoOrEdDXV0buWuOlWXt6BNpAzZ_w9FXria_--ur7GQJH70F8rABiRCIWZqkwRwkauFVjaJLyXc21sviR3rydkkZBLgrL4JCcS4EWTGq2KZGxVGjApEmeJOKnOSR_9A438G_z-omYBMO429JX5RAMdhxmKRAUfa-B8LQD7QOzETwvSmOxXdUCxRJ2_KqJU673GraA2qZjIArs7W2nzEBc0r&xkcb=SoCi6_M3mXx36VAMB70AbzkdCdPP&camk=nUmJqO2E8rjFvpFpYBqkQQ==&p=11&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-02T18:28:33.090Z"
+    },
+    {
+      "id": "1772476113090-0a6pl87",
+      "title": "Développeur Back-end C#.Net Senior/Expert - F/H/NB",
+      "company": "Cegid",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DfmYQLYMrU8gNBWZWaZelSo2q88YgE4v4gC5ioDP8-xJa38MgnOzON298UalGQpgoMSWiF_9kLasuIfl2cf4ZzVd0dZIQDA8PrNEsc-tRtZ7qnpmKOen09QOZ0J9Uv9geILll7x_ds6i5vyZgTsRJQ1XknFMZaT_-1S_XGAYLMfNVtNTQGHNKPHwA7MD5_jTNvy4EYqujF37RaCrsMdoOOy_xjepfjL-QOfDTlYymD2hDdVxtmIfO-mJIZ8M0So1OtIe2y8wzcxc_Qt_kTEmEspMukk9eltRDM8_TzMOa-sN8t3CQIMYI4EEDZK72eKq4vYRXzuiOBCZ11AMtbi76CAufh61mwYCfmHj23BRGdSLxk8mTAzoAQOB2HxKUi9yfqfl1xH5Tm8ZqseXB47WITJUeK8_gk4Ae1Q9W6wW6m2gXc6wKI7o8rhV1IynmeHUyaqh48AW9iHRfZD7ayTI-3jdTTLZZJPCVuZur97tkJvW1EjibZdvwjA3hFoE3ThU-sUQPoCMfAb862mWBxy_-VCBjRT3YhBcfIJDGtZLd8pvep-0auXdu1Rf6-_jG9ecgwLv2O29ucRKopcv4Z9oepeQsFJmrcvFpXri3ggcS2iVmOdcz4hm_lA6m9d8wEX9NOXfBQo0ol6kJzBhcZNxJHpYqqYhcHGDF6kC8rXafSkDDielCkyOXBCYAXGy-PWBsWF729vpC0GVsfNYsz0usXz_bBfllwltlpi4aAGZEIfNXJJRS1qcfR888lFjnCbLk8kXzXa045WEEbg7lp9hJ4LySGWnNonFk=&xkcb=SoAs6_M3mXx36VAMB70HbzkdCdPP&camk=UoKtGZLa3XL9MITaIaCYPA==&p=12&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-02T18:28:33.090Z"
+    },
+    {
+      "id": "1772476113090-iyppewy",
+      "title": "Analyste développeur full-stack (H/F)",
+      "company": "EURO-INFORMATION DEVELOPPEMENTS",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BkX6x_KDzU5cVhaJujbQSv-MpOfS5CSZEJMKysooIe0IxdpkVhketXUf4OSLHMCUnn9QsUwz9KxB-4KAghQWOiuUxgtnxNcIO_rRSIEBYD6iZn5DKwUzqWzd-AmozBNVtKTQpMEHKc5rU4Pti6MjNtWqEDP1Hez9giTLLRdn-fs6-VlYi4yulwJ8a61HToTbHMEfr7-o9FrDiLuGMXZ2ywQIIHqBx7p5UX5SROtePZRdA41QsNIFFkMVf3mVxnpHM8vV_jS-I4dXisdC0VXWQjIzvYQho5z5KrehE3ZtLLlqjYFrjdtVFiF6j9Wv8H3_kAeG6ZpyXdbNtSZ80rjW-29k9Jzs_mQ2Q4EZXbay0p6N_-w3rjSMcT3ZQVgmEVWRM_esAR8DWVV9uKPJ8xeoJikFajCofcn3gTZLrS6oqGP2mo2qycpcd8Hdev_XO0lGi2s-VFtNA1Y8mm52rcaObyxSY8VdUr1hLFbSg3eiWPQSnfCXIoIJwP_pT1qdR2lp8Wmv1VvqRs8fl0TKiOTdHjJ_gtqeQrqF1Ww0F_xOAXeGJZvOXuWp7UzkMji3j5gKGfdea_JpiZ30fZ75hdhbyXbUwxV7FYa0HlSQsanIwoFrAP97thlAkc5ByqYsjADSl06pKo2vcYOogvlhqxR7rqCXlSWh4b03P1nD9Asi3lVA==&xkcb=SoCY6_M3mXx36VAMB70GbzkdCdPP&camk=H-lBaXMUocKVqsP7bEAzTQ==&p=13&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-02T18:28:33.090Z"
+    },
+    {
+      "id": "1772476113090-ovaqx9f",
+      "title": "Developpeur(se) Senior en CDI - F/H",
+      "company": "France billet",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0A5vD-wy8Ag56jO7MkzxSgU2-46e5CHWSjjv3i-bNHvj-YlWeoY1fbaro0Ge-Z2WGqbrJvR3DHGJBgzgUYwYeEvjc-RE7P2OYEZ9TchbG9Q1a_gtPaBomXdN4A4ur98JsWaMH-_xRyHuKH3D6OBxElsyFOlD0rKMYKfyUUfno99WBRnpJeCfc7osUaoS_vIG0v69smoB-sGMDJaEo-F7-q0yJTfdV7r3qLJYU9d6F2YdfPb5-He1AaRKeYOd6NIGDHkl1m7I3iIZf-MaJOjqEp25teIKBk416NOlav9vE1rPTtiS2ceGciYpY7TNmhEQMO4RpSX5-9F6M8ikgrDB6BQWaLcdlIlMyTCfOc9Myax0A7-Pic6Gu_N1hdsPnfY25EoVg58kEYKby-doni5Ma09fixQDga8pRIsGrkaz7BmxvybZ0DWTPxnxQwesG9izF_tEn_wlI8VVYRMYV3xQ1QGtfXkm3147jyOxyWfgJoI1f4NcBqgSUzCl5LE2IRrWmd1mcTcBXELnFFamNxqssumI-VdN2ZruffW8KUjuGOeyCc7mGbNssVF0yEgro2HOXG-8wB7CXAoI2xEV4k-dWeWETTKHtv1nz9MHdOPPh4Zp7WhOczmNe2Q7ZseCnYch9tjqhc4ijziFuMreg4Oqr_EjJ0iilmPdj5QMbH1DNAEUklG1A07Q43UpghRHlviXmudTyJc6RFk6p7qLf7zPM5_IodPZWtTDClB40bbHiW0MSXGbZhLT5qR&xkcb=SoAF6_M3mXx36VAMB70FbzkdCdPP&camk=UoKtGZLa3XJ1NAGlpxlJTA==&p=14&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-02T18:28:33.090Z"
+    },
+    {
+      "id": "1772476132935-mb0o1uq",
+      "title": "Developpeur Front-End Vue.Js - Nuxt H/F - XEFI",
+      "company": "XEFI",
+      "link": "https://www.hellowork.com/fr-fr/emplois/76115236.html",
+      "source": "hellowork",
+      "postedAt": "il y a 6 jours",
+      "scrapedAt": "2026-03-02T18:28:52.935Z"
+    },
+    {
+      "id": "1772566396666-xbm0em5",
+      "title": "Développeur Web Front-End",
+      "company": "Q-Hedge Technologies",
+      "link": "https://fr.indeed.com/rc/clk?jk=8a8aa96805a34e2f&bb=YwiK7l5iY51hB5hjDeq7ViSADx2fN-NTJpgtoHb4gw3MoQep4Z81jpWAPoQpZTVtTDNSowkGLJt_EKsrKgziSNjEnn28sApUAGz7NQUHeO5ZyRtjJ6Dqd05zOqgxGzsyoDNdQj328NkXVrjKhZpvogdGtIV6WDbM&xkcb=SoCk67M3mauKxuy2rJ0LbzkdCdPP&fccid=f36d99d044d9fd28&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-03T19:33:16.666Z"
+    },
+    {
+      "id": "1772566396667-yxhbn1a",
+      "title": "Développeur Front End",
+      "company": "DreamCentury Entertainment",
+      "link": "https://fr.indeed.com/rc/clk?jk=a8408f645b925a16&bb=YwiK7l5iY51hB5hjDeq7VigfB9ZELILqNRkPxF0XpN36AoUmNhsKWmSd-GWMwViOvPCpcXXDIC0oCxlhO800sQT3Z4PU6iJicQtZtgIv1tncsVF1pfrEuUGVhyEiHzYFZ5twHrfWh98XGux_HvLmIkbWash9vgzy&xkcb=SoAQ67M3mauKxuy2rJ0KbzkdCdPP&fccid=6b2f58e1cf258b6c&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-03T19:33:16.667Z"
+    },
+    {
+      "id": "1772566396667-lrx2l56",
+      "title": "Développeur front-end H/F",
+      "company": "Cegedim Group",
+      "link": "https://fr.indeed.com/rc/clk?jk=e816ddd589f0bca2&bb=YwiK7l5iY51hB5hjDeq7VoA7hN8gx3Ok4-gYbrKY0YdnhWV2oeOUQV-6rkvu1QNkS2f1Tmf0sokNRypM9ykfZjnGOk_pdd4TJY60U3f01iU1CREgek6BVOQZcHOhjb4URu5Dsr5CBNXRMIceSayOO2kRjPt0pyOq&xkcb=SoCN67M3mauKxuy2rJ0JbzkdCdPP&fccid=8397d27fa71913c8&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-03T19:33:16.667Z"
+    },
+    {
+      "id": "1772566396667-c5jr0nz",
+      "title": "Développeur Full Stack expérimenté",
+      "company": "AUTOGRIFF",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Ag4YI_od3b82QCtRgS50yH-js2J-ohpzE9NVAX3QdbeBTGZ3-0A-2iElaVYi93P4jPLFj4_9GZ78Np_OOMsqKj68XQN3wpRNmWGuvO1i31OGO7mtunDh-EMyrbQcZdkJ_jLYmPGCxg5FXn_n4pEnFB3nY-RJoLlX2kOC_HDjzv728phUcm2rAnN_uVgH9SayfxjLDhSb6f3msV-kXeL3xwNWx_9IaSk522fCcru10WzsmOc34tNTwYXTrrdeB30KNT1KbElMUGBjRlw600IPt8m9vW8DjFErZuKhooxsc0duDIZcCaW3o4jj_98hULEzLTDBS6KgCOfjgV2YzLytuH9eufkp7NnfXC99-cOUgDvbLJcXZg10sCBuZKlphWcBPW4wif_yasYQFJeErf-D7JAuFtBA7QjoCKkyPm5k_ARvyEaxZStGZcyWWlsQpCdlledDIf-WrDDIM5DCWOgh9UzpauUJyJsmZa4hMcnE6zb6985zrx8gNwRj2I0gV_VNoOAHu0G_G5-7LNDTEZt6faM_CjX4W_u7RW4DJ7jQLGWOrk6GVltfO-EYXgBnYDbmwvJ5CJegC70R0zbBUX9H9B-JJT9Kw8_-AlSGcZhuHmw0Ha4lU1zmj9L1w9HCPSGUB78_G-wdAa2sGQB3464TzmxPynl7825fZ_yQagU_hCDsR__Ds12ak1mpV6shdiUYqE3oPSsMFRlAlEzmDq7FV43FgCFme3Pwjr6P90wsWX7q4dhxjJhSmElCo_z-PGCpZj27O4vkhQgVJ1C4R-AoTU&xkcb=SoDN6_M3mauKxuy2rJ0IbzkdCdPP&camk=UoKtGZLa3XLVTe0Iy7c-tw==&p=3&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-03T19:33:16.667Z"
+    },
+    {
+      "id": "1772566396667-ejfefyt",
+      "title": "Développeur Full Stack .NET/React (ISH) - F/H/NB",
+      "company": "Cegid",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DfmYQLYMrU8gNBWZWaZelSo2q88YgE4v4gC5ioDP8-xJa38MgnOzON298UalGQpgot4zyIcuqR8vIYHy-ng3QGG8r5lSPPkNDlqM-QlyN2rvsKL-EeUbVWQuggkYd1QeaYhb9mIwSbqHlvIdHFfep8PUQbpZy8lGZLyMnPZ9Yz92f7YckQkRULgOpKyFweAQLJFGavUSrPdHawQ5YGf2j40aYRx8_qFTCdgQdwhj046l_fQOmVY1WdUd2grbQy3b94CDAQUZeAoYs5mqQLxKDh99DQXa4fL1gVIX7aRC2ZTd3NHNueeBeD449JmT2Ys6N4RhRj1_eVapMY0VAOh4JIwLzodGul7YnlnPO8dJPyXrtQKBaXAPhbKEbutmaW2hc9ayv5sLHJM2IauTMT2_7gy1Nh2eHCQFiTW5WkCNOI3-xFYkfH-IFL2UB0tStNoIrJlzf1L70fLVMEtg7Tg_B7cv_d7Lv50ArAFihGm7MIo_eBb8WuZapx61SqXmkt8B4V8eI_0alDuEqxdNqqZ07YskVfvRwr_lDclUlgR-TWa0yT8zC_dTw7ElA7SF1AV8V41SE_L1P_sj6aUwClTlQxtjS8NC5oBZaUXFGcrJo5rqB08_q9uVMyjFrMDNQTIciKjQTzfXcsXPmbSfl6T-YNUgzglh8n-SM2TG8CAp-nBvesOztGbLqG3TDu2_dWNb-XtrEQDqcIt10OIRkTZrCO22R21sRqGZYIJIO2svDzv03L2OHWsZVo31J6Xb0PELXZbGW3yErMZ3OyyTE5f0EGlv1rdDhkQ2QE-5VfPKbAkg==&xkcb=SoBD6_M3mauKxuy2rJ0PbzkdCdPP&camk=UoKtGZLa3XL9MITaIaCYPA==&p=4&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-03T19:33:16.667Z"
+    },
+    {
+      "id": "1772566396667-brnhji8",
+      "title": "Developpeur H/F",
+      "company": "GFC PROVAP",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0D7broJqrxS-DJuMRqS7RlG7mkUNGAkbIjRh5Ef9uJBMiePTh34NDb5Edw4RYCalFLyDvngn3w1fxxrnNnZaTd3OtOz7TR6Wtml6dFr5_HoU9qpoguuEREAoll53E35f1TYVWHWGNeHS3EIyuoFmikB7UITVnmt4jT-UIC711P380OLZPVC2nxKFHlvtNODubeaYjiH8HqrqqAdwDSt0l3hUxAuzsii_ab43ZadVfu2x_V5qeweE9ZnqzTwS94U63-gslCshUUCESSoh_amgAyMFKDQY0xpIHGyk3a5z8pXBsHRTvhpNchyM2_DslTRfCliLjuCj2hK_IVgDDnSrEjrkEfaL5lBGJmvE296JzkcNUf1mCeRQLlvardWidiGAPa20MS8oDPHrCLvDw7_CjzzOm32L9HPrUZhTA9CV45x7yFQwfeJqg8KvjdOQLzm7kAc7HouCsvyHxGboZoI2jVROadoblSgWzqmpEsJbqYcpjJ5XmslZ688s-uryW72PsZ9FjhckNGTg6ePRWbTujBCpOmntkHNKt18RhFgYtE9mAoxygCbams9DjhKWPvQ736zV3tE6OpbfFs_9KfBDqha20sq-dlQCuwDI_zHzibbPgY0RwPQIf6RRveJcWMf66pmvVa-2j6gayFA4ejV7wepvtm-R32YTDZkWuEMU6cK6QJyURtfgWTc&xkcb=SoD36_M3mauKxuy2rJ0ObzkdCdPP&camk=H-lBaXMUocL9w0XjqyUM-g==&p=5&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-03T19:33:16.667Z"
+    },
+    {
+      "id": "1772566396667-bwrwfeo",
+      "title": "Analyste développeur Back-end junior (H/F)",
+      "company": "EURO-INFORMATION DEVELOPPEMENTS",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BkX6x_KDzU5cVhaJujbQSv-MpOfS5CSZEJMKysooIe0IxdpkVhketXUf4OSLHMCUld8SjEvw0O4YrcmWmip68r6Dk0xfQpW06aMrK02VjArKhCwmC2OBxErN12EgWbu3N3xsB9WDmJc0EbHccI8Lq5qwpPzOoKRMS7gnAj4LvIO4wzc6cE4xKyBtTe6ab7Mf8D1GGp48BWNaU_bPxsEQdtO9HmgSB6Qi5ycZwJ6-uu8oMdlnWXSG10UCWREwPVgt7pE1cLQqdvg4vAW0pBCibqzOsM-SOO7uHfWxtglT8SFJSTeUFk0F026F-pJwWM74fphYlpBOAr9FbSdUecAxhTmdInZc9BZS497URIuqWoV5sFBWfsknr00V-TnbRp3rwAQ9tgGaWXD71z2Gzl3_4Peb-UfmOimby72zYXu8M4aamyMOGM0Sq817NI7f4KB1I81K3Wg53nAEhsTENRQtzsGhZxeArOnqSn98R-toMoX8beOLn9SBnzks4eYHTkIV0YCOfaJqjDvQYRBKWOB4dKYtBfOhYbMuSs7hlYCeVf98IIJI0HBwZ6LQX9c2wkDjuvWOp87FfeXwy26WnJ47uerSr2a36LKr7qldhvS6uT7KmPqx2uyRnsyW2V5zNMGKAI97y0Te3cI_afTMZPfgZifhI5pG2DgsI=&xkcb=SoBq6_M3mauKxuy2rJ0NbzkdCdPP&camk=H-lBaXMUocKVqsP7bEAzTQ==&p=6&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-03T19:33:16.667Z"
+    },
+    {
+      "id": "1772566396667-50dbvpu",
+      "title": "Analyste développeur Back-end junior (H/F)",
+      "company": "EURO-INFORMATION DEVELOPPEMENTS",
+      "link": "https://fr.indeed.com/viewjob?jk=123456789abcdef0",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-03T19:33:16.667Z"
+    },
+    {
+      "id": "1772566396667-ns8vz2a",
+      "title": "Développeur Full Stack H/F",
+      "company": "INTM",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DvADosgu7vTl3O6eOgp2ABNkw-Y1bM9MqGzjCpQ5EnY0HF7j52cwZFBnY19bf2GRrCcAmTlNNTGle4ccMV8crQ19pDJNaT4mmk8tLgIYG8GYriThRQjNxnV6I-KqmyHsrscHxQbHAxGnTyO09Chfbphh3iyalOPjJpNlYtx46Y-SVgUByVfgrE9OvdjQRz_iR1Z_lSKUGd9ZhHMb1m1xEnfHNnDrMjpCz7eI8BMCfoSnd5m0p1jzedPcgTf3TQ8fXq-5MNkbDwXZJ0xXt7o_OfB-ptmsSEsgZn1tmDsTu3_oo6WlCvY4kEGHnhknhXddsRzqilIAoV1UkXEZx6n0jXfMzsZnPwlXmoxX_JjWLJ5M-ddjKoInhI56-Pm5Qmp1tXGHbNNhc9f_RIGtu6ZlZqISzkdn3GW0R7A20H_LbXmhYHBP3fvpeOaQ2isWuhpFp-1C00AMv8e3apgwlIxjUMzj3yxG5Lq1pz4v4SABjywzuEGzfwp9FIi5l-7UZpfh_cdp11ngHoQsI8mcPKmKNk2hqkt150dPkxkc8AZGb1U2yQYSQ7Djxa8JKZOeppnAhTVfLWsfnF6KMnGOOcYkOrf6R8zZwjcaGkz1KLmNblOa50RAvP-ZOs15q0mpncucogKx_JOZLjzn01qoIg0LlQ_OntHtCiObIlrMZNOuUICu4OeQbGKniJIXP4Yj7BrVe_8T32ehX0M4ina63dw3W83YgCWC_VrLg_MLIlieONPQ==&xkcb=SoDe6_M3mauKxuy2rJ0MbzkdCdPP&camk=UoKtGZLa3XI4ZhP1ZW9aZQ==&p=7&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-03T19:33:16.667Z"
+    },
+    {
+      "id": "1772566396667-114nl0k",
+      "title": "Développeur Full Stack React / TypeScript (H/F)",
+      "company": "BAUDIN CHATEAUNEUF",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0C6QP7XxPt-6qNldm5sVex68wKNlstPlyC1Yeh5WdoLl4m_bgDvjnEgFe80JSQLqiZM3hoWAJkw0fKLE2y6hNIylFn8K_yV_L0NmWzroK30dzYE-QHgzLHRgpnubddpDpPu7sB1qIFXk68VoXiTLvEVESCz9If8Hq6fez-S2EN9Ro1-TRfzQubOeolewqIW_SdZzYG117QGG1Mk-Ufek1UTyU2LO7VZgJS9H5BlzpLQTuppu0QJTscsQZYbu7x3bjrCHl5tOsE2Q7qDvr1x7Fllcp3sBwmE1shKO5SRSSciV8oXbOu3-H7jQ1Uz6GQhWTB94zrJml-GwzSlTKyJO0pCynZJixpx3MNXdzxvlDE0PVxk4GtUJwLev4AmJYg7qYKnAjTviBF-oTwOLl3mDWcZAKpnikBfvKtuSnYgCHtTEUzAONTldo4ZBnIRFrTkPCHRK44WWkJBZ794KCLLBsjcR5N-PccRC9sM8CQXVRSYNEhKmbhGZugDwY2FoBuyP5zofk1VZ24ty8UaB6kQ3RXkyVlcHjHbpcWtuXvNAmy8jeRliJyMTu4ZmLcpLW23JKKqmIHpb8bnyHGfeODMW0iFy5KO94X_yLQ_If1vzDTQvCtTei3RCTO5miG8Nw0n85N5HitfXsNoIOt4kqSx0NOrlPxBfYU-sjL9SSrOKeEYOsEMOwN47WL2NSjFRyuIFCopEBpEEwFxDoTztLERSDwc&xkcb=SoA36_M3mauKxuy2rJ0DbzkdCdPP&camk=UoKtGZLa3XJaiBGlvLt7LA==&p=8&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-03T19:33:16.667Z"
+    },
+    {
+      "id": "1772566396667-mb0m8bm",
+      "title": "Développeur Front End React / Typescript H/F",
+      "company": "Hays France",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0B8ERjU9PCcR394YuEEnZKBlhrjgGpDUbjbg22sHiQT-urBMedX5JtU_v6WoxkE1aQkT8_AzzVzf-gW14TTo4_SSRXPLMIkl5BqaXP4okQXhrc3WkC0ZCqVYBoCK6qHJ040joHV87XY6H1BrD1DH4FOeWO8epfhYjDEckziqYKUDlD1pY-BQeeSX6W7NQp_OFalPEgQlk6bVsNazsIL7qWHRfR0s-O5pa_86cOJy6ha43o4ur7xEWYfg9ClD4SLm9BhieSNqWrod8UeU3C9VqT6YsaRlYnMNUIzWDCHNznFv37njBiMXdU41ayMeEc7dE54Jc01C0bVM2hvwyZxuPrIqrFICC5_Alj0JCmtu1auaATwfZB09d-7bgh4-StvqqQK92VgahV9kc9vV-ZY0yKC2ECuRa3u14cHFSLtcyTiHwuoAqTCj7kuo8SsfUpMvm7FD5SnbGrLPtLlFpJ9Pt_739ecdAC50U7i6sWzxoq-YvVF9kfODP4dnKAitNtgoq1xUR47Fjc5S_xt5SGtNEixNeN_8pZa_AisiXCgD3_SJuof9mOrql-Al4XuREs2wGTEYHoiC2bsaE48sxcNFBlLtdjRGdI2ggqm4YI6hyjfnvJGuYgh7plV3yHcET4YzBjJcg2TbYKGtd8CD-pUq_tES3xUBB25dxFHX5Vf8EYrs3IenAQ-LgWrcDqFvzMDQfOuijI3nJR5yhUrG6Qv5AtC&xkcb=SoCD6_M3mauKxuy2rJ0CbzkdCdPP&camk=nUmJqO2E8riyE0CXatvsew==&p=9&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-03T19:33:16.667Z"
+    },
+    {
+      "id": "1772566396667-7lz9md2",
+      "title": "Développeur(se) Node.JS – Assurance F/H",
+      "company": "CGI",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BigZoPMoqziK6-nfI032PmDdpNpqGjtrtXhKuMV_PiEIqC8wIEZKyTNochUYZmaUyhfzbnLfnVswMW0kcD0ZiqLZl2yPW5yhjsNPceNBGZITrLA-bARseDBKVgEZnAwFnjM3iIGX1VXwN0R3aqlsFCDpuQHTUhubqK81M0TolrLuBvbKjzq9GmNkkEB1OnGaHHw8iEkoatLvaxoheW_wOU5ki7nCgtHep9d-FCvicaFcEM7HySEVIeXC0VaSkZRnL0h2WevSY6gWkrNLu72bYOoZhDmplCgwBKm3rmgXWbAtGWpTUj_u6EUTT4Oad72-VBgdHSQ7fuGmYPEIQx74ZNugBYbXMpnIAVgXIFMYyxPwhCiE96klihPkMRIBOY48IIRLMDRKYzr1huawgteveD02Zc2YdekveXyNix53np9qn3ZL7_UxfneH42_AdvtsFJbWEYVPlDaqVaeCxkAe6I6kkoglfVJcfGR-yJTOnbbgR9sIcdcvQRoS6m-wMaoJaaYapIRSZ3-8HYI5Zz5fGb3e-3XFyPA8ajU5nELM0QRTt0Ut0RHZ0QEulODrh1LNeh9y0KREdIJbQRKhb_FG7sivrKQbzLuuFihcCkLRYVebAckUVIZBCZ6Qno-DFfuLzzGERQHd4N55i7G41W53so3ceNWec8g9m1pefJafGJXf6v40l2q1UrpWs26vbNL0R9KaX3qZkqAOv_hMhOP0u1FGnHaxsU1fAfTpTFX7Q0odGh43XhEA6n5YbGv34LM4Oc6K3OXVGTqf-vMfEyMYix&xkcb=SoAe6_M3mauKxuy2rJ0BbzkdCdPP&camk=4HOcmqOLYrBo2n-BgnSX3g==&p=10&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-03T19:33:16.667Z"
+    },
+    {
+      "id": "1772566396667-tw2z8jy",
+      "title": "Développeur Fullstack Java Quarkus H/F",
+      "company": "Avisto",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Dz8tzRwUKHl6vQyT1gFnMnVqWf2HSFNxF7PqDifhG-gSdlgnDuhNKVxg2yaMcURZGc5taLxJqKqWSzhymfVsfwlbYQoHOBeEoCn0YBCF0NsdS7fGj_6h06xR6KWvkm_CNBlL10zY2Z6yCXct1tdI3dpTrUmiUJLVuVCZHPR_MQ20_kVnC3o954YjmYivvyybJiI8FVzaFl66VMYk6PbPlr4BGl_9p-6G8zhfejGplseViw2oL9p9LikCr-s-3-BOaRLKitk_4JzMcxNcSi3NJqZgolUENCu_Z4VbddoJ9ADGBFkDgu0oEviEIkzCDMD--pRSjQVDLFeN-MFtGxfTM3zHxxR2dk66zpi_q-4yO4GFZnmg_EAeGXGTIPwo4LTGpHszeSMGenwG8sbm7nDXgPnmVY6hJGBzdqkSUYNEQEhDCdAnwxc7Ueg3J_0WwUzTU_GyWV-4XfwxYuWIi377-YJmF22PLrGn6W--hd9UqGCAI_dlMb1pYdAcpsRRAE6WK2TRGiBfjM7TSMRKjpyuS2gsrIT5NbNB1S0WDNsKvqBtHwfuYlerjyVpBGhqRq5SqWl6vPBdmAlaoF21qCy0Y2QVLPETehRTlNYnoTeLGtKKBhj8J_FA-FTtTxLMy2FWMv3pq4fuP631cig_-l2VDAXLSQEKWa8gZB_kta3LwROMF9Nkl_rmKvCLITyYkS40R5F4d0T0glk6AN3tHGgiq75ZrUmkGCToY=&xkcb=SoCq6_M3mauKxuy2rJ0AbzkdCdPP&camk=nUmJqO2E8rjFvpFpYBqkQQ==&p=11&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-03T19:33:16.667Z"
+    },
+    {
+      "id": "1772566396667-ljqw87p",
+      "title": "Ingénieur(e) en développement C# Micro Services (H/F)",
+      "company": "Avisto",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Dz8tzRwUKHl6vQyT1gFnMnVqWf2HSFNxF7PqDifhG-gSdlgnDuhNKVxg2yaMcURZEnugkK0XMxP3GsnOUik-RgwLcZJp7YuTzjNZ10RltzQOeXiUvzsTy-0d04Ki942cjR-KxZf54aVcZPOerQF259Nc05rLwJHL9Xg1yAlzmEKT7yemu8nvSs2cB1anq9agKJpWNxUQeXrBBx800iEKpsVYduyrVFJ-xIPJN7UIUP0ATvVdtly987Wv7-5Yx-3fmj5J5roMtJmkswNOY7tNuLMLD6iZA9GJ6K0KOJwOFJa-HwU_kSXQerT6eEMO6-D8KY_Y8wFxuWLZAogBMysVigFS251a159yFDae0f313VPY01JNF_hBdjRMGXxyl6LcjQ5nrjLA4O_30xsaBOxH61Dwt9lkcp6ztceHdpNakqALg-H72yyWaIUI5q_fQmujm6GppGUbFWgU0ePH8OmQYDfADDuqj7b95m4N1MDRzcHgGlhqo7cyYgIXJCdWdDCBNwPqpnOZH_aTUxdpiYO1wCtg0jRq7j0rGGms1RtkC1HLoR3Il3y9NivLT3s7vPrDVc6NpYiQ7hla9JU7UUvXqOfJFySuMJ-DI6mV9zQmqNAea6-WvrZIk3ylhG7JHgDQl044_zeffecgTuRjhfKR_pZbA8UHUO4jCKdFzSNF6RXcAc299Cd-yy2CaROaoa4ZUYmSqRop0msKoBVREZDJyXYPC24ADqGQtB4CpbYDB_FnOPMNl8BQgqePHhEekdGpJi_bkZ6ZioNkY19VqAQr3Y&xkcb=SoAk6_M3mauKxuy2rJ0HbzkdCdPP&camk=nUmJqO2E8rjFvpFpYBqkQQ==&p=12&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-03T19:33:16.667Z"
+    },
+    {
+      "id": "1772566396667-wjkj1u3",
+      "title": "Développeur Back-end C#.Net Senior/Expert - F/H/NB",
+      "company": "Cegid",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DfmYQLYMrU8gNBWZWaZelSo2q88YgE4v4gC5ioDP8-xJa38MgnOzON298UalGQpgoMSWiF_9kLasuIfl2cf4ZzVd0dZIQDA8PrNEsc-tRtZ7qnpmKOen09QOZ0J9Uv9geILll7x_ds6i5vyZgTsRJQ1XknFMZaT_-wq_0-roXCzIk5xxc5AbttWiePnzXYZ0mtyNR1EOHOb-g-1REom77it_CF8G9tCsMlmm6f3viiBLQxvSHp68_OVQHdZ6_9h8jkstCuCELoPpMp1WGXI10p5pqyzGXN_vHliRnCz06n1rcu7_MxWCYagcRuDddNMV877Lma0hH1H0Bc007UbDYYvvWTMC1B-3_kiG9JAkdBZvI6tKgdFB-5a2filU0HIE6sEKH5Ms9rfBoTwQp-8BYLMuEnJZSG5XAJEuudIcY_mSyxvJHh4JdGLbUbMGFF26lambqdrrIJicBUAgkjGBFcQJP8kyAuTNQ-6ij5ObIWDniGpDhjkKXKqmLD_E_P_I70j5-xzKimKBs5YJnXz7SiX5cZUSHJ4XxYkmzMwoGoz8yZaR8umBiGdevHQttE3ObwS8T_p4_eZvJHbUnNo6t72oHxhl_z8bnJdJmUd9KrBoTjHIYvpBeIBTrJjQ6OJKhj21A_er10X2097x-LO4UKH9vDKRJ3kSdI38E_3haahqTHWu1L_JFBlTNZDxSAxi7VnsZ8w4LsPD1_ZngJhVV7f6owUuznMBUTX6MO6DroPZtAikrd2oETQIL8jolB-AQEPHbxFW7WN1xse6XCvlUx5EJPcmLyvQE=&xkcb=SoCQ6_M3mauKxuy2rJ0GbzkdCdPP&camk=UoKtGZLa3XL9MITaIaCYPA==&p=13&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-03T19:33:16.667Z"
+    },
+    {
+      "id": "1772566396667-2gdxhfy",
+      "title": "Développeur Full Stack .NET/React - F/H/NB",
+      "company": "Cegid",
+      "link": "https://fr.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DfmYQLYMrU8gNBWZWaZelSo2q88YgE4v4gC5ioDP8-xJa38MgnOzON298UalGQpgoRl7ri_ldocw0I6HS0CURPNRPglY6dfTy5bhusVlfKtbVoOKSMOihliPtHzIjEEZGoGOVnyQp35rA2CyE1TyFKu7FNtXM0mmnoLrMkv2nlkjA2HKYHQBMS5QdPB_lrubldxXjt73U9PxOgAdEg-sAGJF3kXJXeBOpbP2mN_SwGaDCivcbD88H4kRD_4TH4dB_cpTmAqyHnlqhvzYhbZj2RgcpkZN3-q8cvpQLPdjycYEDME8P_vPqoK8Psw33wASm5wHo4QtAqfWy1p6Qj1gP4WRk61_71wKb_JbRhCEW_w--sBfpFzd1rD8oKkBEicwbi6ks6hMHpSgTDEpfRNJAoSL3uEUlQ3ktUOX8j_zn4EEEgFvVrr7N43zbX5Atrx-BoqXMHu8BYag8d_XSKUTobvJkfL5FJoTpj4jvDRGyA-6YtljqPl9vnW0j5g-TdMlREMWBMF1w53S-eZ93S6AVUd7VqbmLnKqZinefhtEXkkcjVx68lcQ6qQj_O1Dh9JqzbJtLppbJd0Da3IHLISsKDnekzwRP56Ye9JPceJ73-7IFKBaeBGI26quMXy7qsSwSX-6i0B7SixruaeYaAE9dUYh3qKXCdP3c0jRjKnSEj3oNhovpClltRcxqbybIjJCp4pd_O_zGZoMncQoeQ7gAGyseYg4a82_L62J5uivCUcO-28Oj8sN6BFUEBb-Y_hZTS2byHoxXf38iNZ3PIwq3YrsrXnzYpzvsOswo-4cLYHg==&xkcb=SoAN6_M3mauKxuy2rJ0FbzkdCdPP&camk=UoKtGZLa3XL9MITaIaCYPA==&p=14&fvj=0&vjs=3",
+      "source": "indeed",
+      "postedAt": "",
+      "scrapedAt": "2026-03-03T19:33:16.667Z"
+    },
+    {
+      "id": "1772566408399-biip57m",
+      "title": "Développeur Front-End (H/F)",
+      "company": "Groupe SII",
+      "link": "https://www.welcometothejungle.com/fr/companies/sii/jobs/developpeur-front-end-h-f_sophia-antipolis",
+      "source": "wtj",
+      "postedAt": "2026-03-02T22:17:25Z",
+      "scrapedAt": "2026-03-03T19:33:28.399Z"
+    },
+    {
+      "id": "1772566408399-gfkygo1",
+      "title": "Développeur Front-End React & Next.JS & Contentstack H/F",
+      "company": "NEXTON",
+      "link": "https://www.welcometothejungle.com/fr/companies/nexton-consulting/jobs/developpeur-front-end-react-next-js-contentstack-h-f_lille",
+      "source": "wtj",
+      "postedAt": "2026-03-02T23:00:49Z",
+      "scrapedAt": "2026-03-03T19:33:28.399Z"
+    },
+    {
+      "id": "1772566408399-5b12r4u",
+      "title": "Développeur Frontend React.js",
+      "company": "JOBGLOBER",
+      "link": "https://www.welcometothejungle.com/fr/companies/jobglober/jobs/developpeur-senior-react-c_paris",
+      "source": "wtj",
+      "postedAt": "2026-03-03T17:53:33Z",
+      "scrapedAt": "2026-03-03T19:33:28.399Z"
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+/* Offres — même thème indigo & ambre */
+
+.offres-page {
+  --bg: #1e1d2a;
+  --surface: #282636;
+  --border: #3d3a4e;
+  --text: #ede9f0;
+  --muted: #a39fb5;
+  --muted-soft: #6d6980;
+  --accent: #d4a853;
+  --accent-hover: #dfb96a;
+  font-family: "Plus Jakarta Sans", system-ui, sans-serif;
+  background-color: var(--bg);
+  background-image: radial-gradient(circle, rgba(212, 168, 83, 0.04) 1px, transparent 1px);
+  background-size: 32px 32px;
+  color: var(--text);
+  min-height: 100vh;
+  padding: 2rem 1.5rem 4rem;
+}
+
+/* Nav */
+.offres-nav {
+  margin-bottom: 2.5rem;
+}
+
+.offres-logo {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  text-decoration: none;
+  color: var(--text);
+  font-weight: 600;
+  font-size: 0.9375rem;
+}
+
+.offres-logo-img {
+  height: 2rem;
+  width: auto;
+}
+
+/* Header */
+.offres-header {
+  max-width: 48rem;
+  margin: 0 auto 1.5rem;
+}
+
+.offres-title {
+  font-weight: 700;
+  font-size: 1.5rem;
+  letter-spacing: -0.02em;
+  margin: 0 0 0.35rem;
+}
+
+.offres-updated {
+  font-size: 0.8125rem;
+  color: var(--muted-soft);
+  margin: 0;
+}
+
+/* Filters */
+.offres-filters {
+  max-width: 48rem;
+  margin: 0 auto 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.offres-search {
+  width: 100%;
+  padding: 0.65rem 1rem;
+  font-size: 0.9375rem;
+  font-family: inherit;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  color: var(--text);
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.offres-search::placeholder {
+  color: var(--muted-soft);
+}
+
+.offres-search:focus {
+  border-color: var(--accent);
+}
+
+.offres-source-filters {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.source-btn {
+  padding: 0.4rem 0.85rem;
+  font-size: 0.8125rem;
+  font-family: inherit;
+  font-weight: 500;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  color: var(--muted);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.source-btn:hover {
+  border-color: var(--muted-soft);
+  color: var(--text);
+}
+
+.source-btn.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: var(--bg);
+}
+
+/* Count */
+.offres-count {
+  max-width: 48rem;
+  margin: 0 auto 0.75rem;
+  font-size: 0.8125rem;
+  color: var(--muted-soft);
+}
+
+/* List */
+.offres-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 auto;
+  max-width: 48rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.offres-pagination {
+  max-width: 48rem;
+  margin: 0.75rem auto 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  font-size: 0.8125rem;
+  color: var(--muted-soft);
+}
+
+.page-btn {
+  padding: 0.35rem 0.75rem;
+  font-size: 0.8125rem;
+  font-family: inherit;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--muted);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.page-btn:hover:not(:disabled) {
+  border-color: var(--muted-soft);
+  color: var(--text);
+}
+
+.page-btn:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+.page-info {
+  min-width: 6rem;
+  text-align: center;
+}
+
+.offre-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  height: 5.5rem;
+  padding: 1rem 1.25rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  transition: border-color 0.2s;
+  box-sizing: border-box;
+}
+
+.offre-card:hover {
+  border-color: var(--muted-soft);
+}
+
+.offre-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.offre-title {
+  display: block;
+  font-weight: 600;
+  font-size: 0.9375rem;
+  color: var(--text);
+  text-decoration: none;
+  margin-bottom: 0.25rem;
+  line-height: 1.4;
+  transition: color 0.15s;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.offre-title:hover {
+  color: var(--accent);
+}
+
+.offre-company {
+  font-size: 0.8125rem;
+  color: var(--muted);
+  margin: 0;
+}
+
+.offre-meta {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.35rem;
+  flex-shrink: 0;
+}
+
+.offre-source {
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  white-space: nowrap;
+}
+
+.source-wtj {
+  background: rgba(255, 205, 0, 0.12);
+  color: #f0c430;
+}
+
+.source-hellowork {
+  background: rgba(52, 152, 219, 0.12);
+  color: #5dade2;
+}
+
+.source-indeed {
+  background: rgba(46, 134, 171, 0.12);
+  color: #48b5c4;
+}
+
+.offre-date {
+  font-size: 0.75rem;
+  color: var(--muted-soft);
+  white-space: nowrap;
+}
+
+.offre-scraped {
+  font-size: 0.7rem;
+  color: var(--muted-soft);
+  opacity: 0.6;
+  white-space: nowrap;
+}
+
+.offres-empty {
+  max-width: 48rem;
+  margin: 3rem auto;
+  text-align: center;
+  color: var(--muted-soft);
+}
+
+@media (max-width: 600px) {
+  .offre-card {
+    flex-direction: column;
+    gap: 0.5rem;
+    height: auto;
+    min-height: 5.5rem;
+    align-items: flex-start;
+  }
+
+  .offre-meta {
+    flex-direction: row;
+    align-items: center;
+  }
+}

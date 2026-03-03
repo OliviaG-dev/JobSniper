@@ -17,8 +17,8 @@ function Home() {
             JobSniper analyse et filtre les offres qui correspondent à ton
             profil. Moins de bruit, plus de pertinence.
           </p>
-          <a href="#" className="btn">
-            Découvrir
+          <a href="/offres" className="btn">
+            Voir les offres
           </a>
         </div>
       </header>
