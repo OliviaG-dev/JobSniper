@@ -1,4 +1,5 @@
 import "./Home.css";
+import { Link } from "react-router";
 
 function Home() {
   return (
@@ -17,9 +18,9 @@ function Home() {
             JobSniper analyse et filtre les offres qui correspondent à ton
             profil. Moins de bruit, plus de pertinence.
           </p>
-          <a href="/offres" className="btn">
+          <Link to="/offres" className="btn">
             Voir les offres
-          </a>
+          </Link>
         </div>
       </header>
     </div>

@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { Link } from "react-router";
 import "./Offres.css";
 
 interface Job {
@@ -170,13 +171,13 @@ function Offres() {
   return (
     <div className="offres-page">
       <nav className="offres-nav">
-        <a href="/" className="offres-logo">
+        <Link to="/" className="offres-logo">
           <img src="/logo.png" alt="" className="offres-logo-img" />
           <span>JobSniper</span>
-        </a>
-        <a href="/postulees" className="offres-nav-link">
+        </Link>
+        <Link to="/postulees" className="offres-nav-link">
           Postulées
-        </a>
+        </Link>
       </nav>
 
       <div className="offres-header">

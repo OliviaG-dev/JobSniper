@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { Link } from "react-router";
 import "../offres/Offres.css";
 
 interface Job {
@@ -101,13 +102,13 @@ function Postule() {
   return (
     <div className="offres-page">
       <nav className="offres-nav">
-        <a href="/" className="offres-logo">
+        <Link to="/" className="offres-logo">
           <img src="/logo.png" alt="" className="offres-logo-img" />
           <span>JobSniper</span>
-        </a>
-        <a href="/offres" className="offres-nav-link">
+        </Link>
+        <Link to="/offres" className="offres-nav-link">
           Offres
-        </a>
+        </Link>
       </nav>
 
       <div className="offres-header">
