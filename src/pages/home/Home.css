@@ -28,9 +28,10 @@
 }
 
 .nav {
-  margin-bottom: clamp(4rem, 14vw, 8rem);
+  margin: 0 0 clamp(4rem, 14vw, 8rem);
   display: flex;
   align-items: center;
+  justify-content: flex-start;
   gap: 0.75rem;
 }
 
@@ -51,6 +52,20 @@
   max-width: 32rem;
   margin: 0 auto;
   text-align: left;
+}
+
+@media (max-width: 768px) {
+  .hero-content {
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  .btn {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+  }
 }
 
 .tagline {

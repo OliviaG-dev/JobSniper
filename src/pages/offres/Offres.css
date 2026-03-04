@@ -20,7 +20,11 @@
 
 /* Nav */
 .offres-nav {
-  margin-bottom: 2.5rem;
+  max-width: 48rem;
+  margin: 0 auto 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .offres-logo {
@@ -36,6 +40,21 @@
 .offres-logo-img {
   height: 2rem;
   width: auto;
+}
+
+.offres-nav-link {
+  font-size: 0.8125rem;
+  color: var(--muted-soft);
+  text-decoration: none;
+  padding: 0.4rem 0.75rem;
+  border-radius: 999px;
+  border: 1px solid transparent;
+  transition: all 0.15s;
+}
+
+.offres-nav-link:hover {
+  border-color: var(--border);
+  color: var(--text);
 }
 
 /* Header */
@@ -138,7 +157,7 @@
 
 .offres-pagination {
   max-width: 48rem;
-  margin: 0.75rem auto 0;
+  margin: 0.75rem auto 0.25rem;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -188,6 +207,14 @@
   box-sizing: border-box;
 }
 
+.offre-card-applied {
+  opacity: 0.6;
+}
+
+.offre-card-applied .offre-title {
+  text-decoration: line-through;
+}
+
 .offre-card:hover {
   border-color: var(--muted-soft);
 }
@@ -206,9 +233,6 @@
   margin-bottom: 0.25rem;
   line-height: 1.4;
   transition: color 0.15s;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
 }
 
 .offre-title:hover {
@@ -227,6 +251,49 @@
   align-items: flex-end;
   gap: 0.35rem;
   flex-shrink: 0;
+}
+
+.offre-applied-toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.75rem;
+  color: var(--muted-soft);
+  margin-right: 0.25rem;
+}
+
+.offre-applied-toggle input {
+  width: 1rem;
+  height: 1rem;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  border-radius: 4px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.15s ease-out;
+}
+
+.offre-applied-toggle input:hover {
+  border-color: var(--muted-soft);
+}
+
+.offre-applied-toggle input:checked {
+  border-color: var(--accent);
+  background: var(--accent);
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.15);
+}
+
+.offre-applied-toggle input:checked::after {
+  content: "";
+  width: 0.45rem;
+  height: 0.45rem;
+  border-radius: 2px;
+  background: var(--bg);
 }
 
 .offre-source {
@@ -272,6 +339,18 @@
   color: var(--muted-soft);
 }
 
+.offres-applied {
+  max-width: 48rem;
+  margin: 1.5rem auto 0;
+}
+
+.offres-subtitle {
+  font-size: 0.9375rem;
+  font-weight: 600;
+  margin: 0 0 0.5rem;
+  color: var(--muted);
+}
+
 @media (max-width: 600px) {
   .offre-card {
     flex-direction: column;
@@ -284,5 +363,11 @@
   .offre-meta {
     flex-direction: row;
     align-items: center;
+  }
+
+  .offre-title {
+    white-space: normal;
+    overflow: visible;
+    text-overflow: clip;
   }
 }

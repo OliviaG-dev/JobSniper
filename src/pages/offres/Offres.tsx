@@ -44,6 +44,7 @@ function Offres() {
   const [search, setSearch] = useState("");
   const [sourceFilter, setSourceFilter] = useState("all");
   const [loading, setLoading] = useState(true);
+   const [appliedMap, setAppliedMap] = useState<Record<string, boolean>>({});
   const [currentPage, setCurrentPage] = useState(1);
 
   useEffect(() => {
@@ -56,6 +57,49 @@ function Offres() {
       .catch(() => setJobs([]))
       .finally(() => setLoading(false));
   }, []);
+
+  useEffect(() => {
+    try {
+      const raw = window.localStorage.getItem("jobsniper-applied");
+      if (!raw) return;
+      const parsed = JSON.parse(raw) as Record<string, boolean>;
+      if (parsed && typeof parsed === "object") {
+        // Avoid extra render if nothing changed
+        const keysPrev = Object.keys(appliedMap);
+        const keysNext = Object.keys(parsed);
+        const sameLength = keysPrev.length === keysNext.length;
+        const sameKeys =
+          sameLength && keysPrev.every((k) => parsed[k] === appliedMap[k]);
+        if (!sameKeys) {
+          setAppliedMap(parsed);
+        }
+      }
+    } catch {
+      // ignore localStorage errors
+    }
+    // we only want to run this once on mount with the initial state
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  useEffect(() => {
+    try {
+      window.localStorage.setItem("jobsniper-applied", JSON.stringify(appliedMap));
+    } catch {
+      // ignore localStorage errors
+    }
+  }, [appliedMap]);
+
+  const toggleApplied = (id: string) => {
+    setAppliedMap((prev) => {
+      const next = { ...prev };
+      if (next[id]) {
+        delete next[id];
+      } else {
+        next[id] = true;
+      }
+      return next;
+    });
+  };
 
   const filtered = jobs
     .filter((job) => {
@@ -75,13 +119,53 @@ function Offres() {
       return dateB - dateA;
     });
 
+  const activeJobs = filtered.filter((job) => !appliedMap[job.id]);
+
   const pageSize = 5;
-  const totalPages = Math.max(1, Math.ceil(filtered.length / pageSize));
+  const totalPages = Math.max(1, Math.ceil(activeJobs.length / pageSize));
   const safePage = Math.min(currentPage, totalPages);
   const startIndex = (safePage - 1) * pageSize;
-  const paginated = filtered.slice(startIndex, startIndex + pageSize);
+  const paginated = activeJobs.slice(startIndex, startIndex + pageSize);
 
   const sources = [...new Set(jobs.map((j) => j.source))];
+
+  const renderJobCard = (job: Job) => {
+    const isApplied = !!appliedMap[job.id];
+    return (
+      <li
+        key={job.id}
+        className={`offre-card ${isApplied ? "offre-card-applied" : ""}`}
+      >
+        <label className="offre-applied-toggle">
+          <input
+            type="checkbox"
+            checked={isApplied}
+            onChange={() => toggleApplied(job.id)}
+          />
+        </label>
+        <div className="offre-info">
+          <a
+            href={job.link}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="offre-title"
+          >
+            {job.title}
+          </a>
+          <p className="offre-company">{job.company}</p>
+        </div>
+        <div className="offre-meta">
+          <span className={`offre-source source-${job.source}`}>
+            {SOURCE_LABELS[job.source] || job.source}
+          </span>
+          {job.postedAt && (
+            <span className="offre-date">{timeAgo(job.postedAt)}</span>
+          )}
+          <span className="offre-scraped">{timeAgo(job.scrapedAt)}</span>
+        </div>
+      </li>
+    );
+  };
 
   return (
     <div className="offres-page">
@@ -89,6 +173,9 @@ function Offres() {
         <a href="/" className="offres-logo">
           <img src="/logo.png" alt="" className="offres-logo-img" />
           <span>JobSniper</span>
+        </a>
+        <a href="/postulees" className="offres-nav-link">
+          Postulées
         </a>
       </nav>
 
@@ -136,34 +223,7 @@ function Offres() {
         <>
           <p className="offres-count">{filtered.length} offres</p>
           <ul className="offres-list">
-            {paginated.map((job) => (
-              <li key={job.id} className="offre-card">
-                <div className="offre-info">
-                  <a
-                    href={job.link}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="offre-title"
-                  >
-                    {job.title}
-                  </a>
-                  <p className="offre-company">{job.company}</p>
-                </div>
-                <div className="offre-meta">
-                  <span className={`offre-source source-${job.source}`}>
-                    {SOURCE_LABELS[job.source] || job.source}
-                  </span>
-                  {job.postedAt && (
-                    <span className="offre-date">
-                      {timeAgo(job.postedAt)}
-                    </span>
-                  )}
-                  <span className="offre-scraped">
-                    {timeAgo(job.scrapedAt)}
-                  </span>
-                </div>
-              </li>
-            ))}
+            {paginated.map(renderJobCard)}
           </ul>
           {totalPages > 1 && (
             <div className="offres-pagination">
